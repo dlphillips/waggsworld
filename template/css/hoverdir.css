@@ -1,0 +1,55 @@
+.da-thumbs {
+    list-style: none;
+    position: relative;
+    padding: 0;
+}
+
+.da-thumbs .hover {
+    float: left;
+    background: #fff;
+    position: relative;
+    margin: 15px 0;
+}
+
+.da-thumbs .hover a,
+.da-thumbs .hover a img {
+    display: block;
+    position: relative;
+}
+
+.da-thumbs .hover a {
+    overflow: hidden;
+}
+
+.da-thumbs .hover a div {
+    position: absolute;
+    background: rgba(0, 0, 0, .7);
+    width: 100%;
+    height: 100%;
+    
+}
+
+.da-thumbs .hover a div.custom-hover-object {
+    position: absolute;
+    background: #333;
+    width: 100%;
+    height: 100%;
+}
+
+.da-thumbs .hover a div span {
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-transform: uppercase;
+    color: #fff;
+}
+
+.da-thumbs .hover a div span i {
+    margin: 0 15px;
+}
+
+.da-thumbs .hover a div.custom-hover-object span {
+    color: rgba(75, 75, 75, 0.9);
+}

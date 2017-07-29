@@ -1,0 +1,45 @@
+/*================= Media Query All Devices =================*/
+
+@media only screen and (max-width: 767px) {
+    /* Adjust Typographie*/
+    h2 {
+        font-size: 26px;
+    }
+    h3 {
+        font-size: 20px;
+    }
+    h4 {
+        font-size: 16px;
+    }
+    p {
+        font-size: 1em;
+    }
+    /* Adjust About Me*/
+    #about_me > .row {
+        display: flex;
+        flex-direction: column-reverse
+    }
+    #about_me #store {
+        padding: 0 10px;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    /* Adjust About Me*/
+    #about_me > .row {
+        display: flex;
+        flex-direction: column-reverse
+    }
+    #about_me #store {
+        padding: 0 10px;
+    }
+}
+
+@media only screen and (min-width: 992px) {
+    /* Adjust About Me*/
+    #about_me > .row {
+        display: inline-block !important;
+    }
+}
+
+@media only screen and (min-width: 1200px) {}
