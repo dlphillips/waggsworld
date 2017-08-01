@@ -41,6 +41,7 @@ var Main = React.createClass({
                   <li><Link to="/services">Services</Link></li>
                   <li><Link to="/events">Events</Link></li>
                   <li><Link to="/breeding">Breeding</Link></li>
+                  <li><Link to="/login">Login</Link></li>
                 </ul>
               </div>
             </div>
