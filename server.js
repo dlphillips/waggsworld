@@ -57,7 +57,7 @@ User.createStrategy();
 
 
 
-app.post("/users/registration",
+app.post("/api/users/registration",
   function (req, res) {
 
     newUser = new User(req.body);
@@ -75,27 +75,27 @@ app.post("/users/registration",
 //   res.send({ user: req.body.username });
 // });
 
-app.get('/users/login', function (req, res, next) {
+app.get('/api/users/login', function (req, res, next) {
   passport.authenticate('local', function (err, user, info) {
-    if (err) { return next(err); }
-    if (!user) { return res.redirect('/login'); }
-    req.logIn(user, function (err) {
-      if (err) { return next(err); }
-      User.
-        findOneAndUpdate({ username: user.username })
+    // if (err) { return next(err); }
+    // if (!user) { return res.redirect('/login'); }
+    // req.logIn(user, function (err) {
+    //   if (err) { return next(err); }
+    //   // User.
+    //     // findOneAndUpdate({ username: user.username })
         //need to finish adding tracking metric info for user login info... lastLogin, attempts, etc. 
         
 
       
-      return res.redirect('/users/' + user.username);
+      // return res.redirect('/users/' + user.username);
     });
-  })(req, res, next);
-});
+  });
+// });
 
-app.post('/users/login', function (req, res, next) {
+app.post('/api/users/login', function (req, res, next) {
   passport.authenticate('local', function (err, user, info) {
     if (err) { return next(err); }
-    if (!user) { return res.redirect('/login'); }
+    // if (!user) { return res.redirect('/login'); }
     req.logIn(user, function (err) {
       if (err) { return next(err); }
       console.log('User ' + req.body.username + ' authenticated succesfully');
