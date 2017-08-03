@@ -29,6 +29,8 @@ var DogMap = require("../components/DogMap");
 var Events = require("../components/Events");
 var Breeding = require("../components/Breeding");
 var DogDate = require("../components/DogDate");
+var Registration = require("../components/Registration");
+var Login = require("../components/Login");
 
 
 // Export the Routes
@@ -45,6 +47,8 @@ module.exports = (
       <Route path="Events" component={Events} />
       <Route path="Breeding" component={Breeding} />
       <Route path="DogDate" component={DogDate} />
+      <Route path="Registration" component={Registration} />
+      <Route path="Login" component={Login} />
 
       {/* If user selects any other path... we get the Home Route */}
       <IndexRoute component={Home} />
