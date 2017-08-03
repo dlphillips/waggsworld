@@ -19,7 +19,7 @@ var Registration = React.createClass({
 
         {/* Note how we pass the setQuery function to enable Query to perform searches */}
         <h1>New User Registration Component</h1>
-        <form action="/registration" method="post">
+        <form action="/users/registration" method="post">
           <label>
             Username:
             <input type="text" name="username" />

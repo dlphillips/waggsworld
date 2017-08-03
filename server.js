@@ -11,7 +11,7 @@ var User = require("./server/models/user");
 
 // Create Instance of Express
 var app = express();
-var PORT = process.env.PORT || 3000; // Sets an initial port. We'll use this later in our listener
+var PORT = process.env.PORT || 8080; // Sets an initial port. We'll use this later in our listener
 
 // Run Morgan for Logging
 app.use(logger("dev"));
@@ -52,7 +52,7 @@ passport.use(new LocalStrategy(User.authenticate()));
 passport.serializeUser(User.serializeUser());
 passport.deserializeUser(User.deserializeUser());
 
-
+User.createStrategy();
 
 // Route to get all saved articles
 app.get("/api/saved", function (req, res) {
@@ -86,7 +86,7 @@ app.post("/api/saved", function (req, res) {
 });
 
 
-app.post("/registration",
+app.post("/users/registration",
   function (req, res) {
 
     newUser = new User(req.body);
@@ -100,25 +100,46 @@ app.post("/registration",
     });
   });
 
-app.get("/login", function(req, res) {
+// app.get("/users/login", function (req, res) {
+//   res.send({ user: req.body.username });
+// });
 
-}) 
+app.get('/users/login', function (req, res, next) {
+  passport.authenticate('local', function (err, user, info) {
+    if (err) { return next(err); }
+    if (!user) { return res.redirect('/login'); }
+    req.logIn(user, function (err) {
+      if (err) { return next(err); }
+      User.
+        findOneAndUpdate({ username: user.username }).
 
-app.post("/login",
-  function (req, res) {
-
-    User.authenticate(req.body.username, req.body.password, function (err) {
-      if (err) {
-        console.log('An error occured', err)
-      } else {
-        console.log('User ' + req.body.username + ' authenticated succesfully');
-        res.redirect('/Home');
-      }
+      
+      return res.redirect('/users/' + user.username);
     });
+  })(req, res, next);
+});
 
+app.post('/users/login', function (req, res, next) {
+  passport.authenticate('local', function (err, user, info) {
+    if (err) { return next(err); }
+    if (!user) { return res.redirect('/login'); }
+    req.logIn(user, function (err) {
+      if (err) { return next(err); }
+      console.log('User ' + req.body.username + ' authenticated succesfully');
+      return res.redirect('/users/' + user.username);
+    });
+  })(req, res, next);
+});
 
+//   if (err) {
+//     console.log('The following error occured:');
+//     console.log(err);
+//   }
+//   console.log('User ' + req.body.username + ' authenticated succesfully');
+//   res.redirect('/');
 
-  });
+// });
+
 
 
 

@@ -26,10 +26,12 @@ var userSchema = new Schema({
             zip: String
         }
     },
+    last: Date,
+    attempts: Number
 });
 
 userSchema.plugin(passportLocalMongoose,
-    {limitAttempts: true,
+    {limitAttempts: false,
         maxAttemps: 5})
 
 var User = mongoose.model("User", userSchema);
