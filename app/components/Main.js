@@ -16,8 +16,9 @@ var Main = React.createClass({
           {/* Navbar */}
 
           <nav className="navbar navbar-default navbar-fixed-top">
+
               <div className="container">
-                  <div id="waggs-world-icon">BLah</div>
+<div id="waggs-world-icon"></div>
                   <div className="navbar-brand text-uppercase">
 
                       <button type="button" className="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false"> <span className="sr-only">Toggle navigation</span> <span className="icon-bar"></span> <span className="icon-bar"></span> <span className="icon-bar"></span> </button> <Link to="/">WaggsWorld</Link></div>
