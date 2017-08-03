@@ -54,36 +54,7 @@ passport.deserializeUser(User.deserializeUser());
 
 User.createStrategy();
 
-// // Route to get all saved articles
-// app.get("/api/saved", function (req, res) {
 
-//   Article.find({})
-//     .exec(function (err, doc) {
-
-//       if (err) {
-//         console.log(err);
-//       }
-//       else {
-//         res.send(doc);
-//       }
-//     });
-// });
-
-// Route to add an article to saved list
-// app.post("/api/saved", function (req, res) {
-//   var newArticle = new Article(req.body);
-
-//   console.log(req.body);
-
-//   newArticle.save(function (err, doc) {
-//     if (err) {
-//       console.log(err);
-//     }
-//     else {
-//       res.send(doc);
-//     }
-//   });
-// });
 
 
 app.post("/users/registration",
@@ -133,6 +104,55 @@ app.post('/users/login', function (req, res, next) {
   })(req, res, next);
 });
 
+
+
+// Any non API GET routes will be directed to our React App and handled by React Router
+app.get("*", function (req, res) {
+  res.sendFile(__dirname + "/public/index.html");
+});
+
+
+// -------------------------------------------------
+
+app.listen(PORT, function () {
+  console.log("App listening on PORT: " + PORT);
+});
+
+
+
+
+// // Route to get all saved articles
+// app.get("/api/saved", function (req, res) {
+
+//   Article.find({})
+//     .exec(function (err, doc) {
+
+//       if (err) {
+//         console.log(err);
+//       }
+//       else {
+//         res.send(doc);
+//       }
+//     });
+// });
+
+// Route to add an article to saved list
+// app.post("/api/saved", function (req, res) {
+//   var newArticle = new Article(req.body);
+
+//   console.log(req.body);
+
+//   newArticle.save(function (err, doc) {
+//     if (err) {
+//       console.log(err);
+//     }
+//     else {
+//       res.send(doc);
+//     }
+//   });
+// });
+
+
 //   if (err) {
 //     console.log('The following error occured:');
 //     console.log(err);
@@ -165,15 +185,3 @@ app.post('/users/login', function (req, res, next) {
 //     }
 //   });
 // });
-
-// Any non API GET routes will be directed to our React App and handled by React Router
-app.get("*", function (req, res) {
-  res.sendFile(__dirname + "/public/index.html");
-});
-
-
-// -------------------------------------------------
-
-app.listen(PORT, function () {
-  console.log("App listening on PORT: " + PORT);
-});
