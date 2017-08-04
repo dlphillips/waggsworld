@@ -1,0 +1,3529 @@
+     [{
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [ -80.911895,
+                 35.114096
+             ]
+         },
+         "properties":
+         {
+         "name": "Four Paws Dog Retreat",
+         "location.address1": "10901 Downs Rd",
+         "location.city": "Pineville",
+         "location.state": "NC",
+         "location.zip_code": "28134",
+         "id": "four-paws-dog-retreat-pineville",
+         "display_phone": "(704) 583-2438",
+         "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/NoVGy4EirCBy3QOUhManpA/o.jpg",
+         "url": "https://www.yelp.com/biz/four-paws-dog-retreat-pineville?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+         "review_count": "12",
+         "rating": "4.5"
+     }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [ -80.942751,
+                 35.133082
+             ]
+         },
+         "properties":
+         {
+             "name": "Continental Boarding And Doggie Daycare",
+             "location.address1": "2235 Township Rd",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28273",
+             "id": "continental-boarding-and-doggie-daycare-charlotte",
+             "display_phone": "(704) 504-0025",
+             "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/DzIp5xy314nO002YeIwwfQ/o.jpg",
+             "url": "https://www.yelp.com/biz/continental-boarding-and-doggie-daycare-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "12",
+             "rating": "4"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.86665,
+                 35.20492
+             ]
+         },
+         "properties":
+         {
+             "name": "Club Fetch",
+             "location.address1": "2426 Dunavant St",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28203",
+             "id": "club-fetch-charlotte-2",
+             "display_phone": "(980) 299-0019",
+             "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/4tHYZUcv9cacp-1sJcYiTA/o.jpg",
+             "url": "https://www.yelp.com/biz/club-fetch-charlotte-2?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "36",
+             "rating": "5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.9220735,
+                 35.2294132
+             ]
+         },
+         "properties":
+         {
+             "name": "Pet Paradise",
+             "location.address1": "2919 Boyer St",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28208",
+             "id": "pet-paradise-charlotte",
+             "display_phone": "(704) 393-3647",
+             "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/qln6lUoYLXZbyMcADOtPQQ/o.jpg",
+             "url": "https://www.yelp.com/biz/pet-paradise-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "47",
+             "rating": "4.5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-81.0191879272461,
+                 35.0723266601562
+             ]
+         },
+         "properties":
+         {
+             "name": "Laurel Oak Farm Dog Kennel",
+             "location.address1": "16223 Youngblood Rd",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28278",
+             "id": "laurel-oak-farm-dog-kennel-charlotte",
+             "display_phone": "(980) 859-7935",
+             "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/r1OKvk_K1O1tWE_2L9RHrQ/o.jpg",
+             "url": "https://www.yelp.com/biz/laurel-oak-farm-dog-kennel-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "4",
+             "rating": "5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.92386,
+                 35.0924
+             ]
+         },
+         "properties":
+         {
+             "name": "Camp Bow Wow Fort Mill",
+             "location.address1": "3536 Centre Cir",
+             "location.city": "Fort Mill",
+             "location.state": "SC",
+             "location.zip_code": "29715",
+             "id": "camp-bow-wow-fort-mill-fort-mill",
+             "display_phone": "(803) 547-2267",
+             "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Zrs4o8nFrG8_SEFCeG80BA/o.jpg",
+             "url": "https://www.yelp.com/biz/camp-bow-wow-fort-mill-fort-mill?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "7",
+             "rating": "4.5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.84749,
+                 35.17105
+             ]
+         },
+         "properties":
+         {
+             "name": "The Barker Lounge",
+             "location.address1": "1719 Montford Dr",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28209",
+             "id": "the-barker-lounge-charlotte",
+             "display_phone": "(704) 522-7537",
+             "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/KoKc0d3w9x710NkMZoPW3Q/o.jpg",
+             "url": "https://www.yelp.com/biz/the-barker-lounge-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "62",
+             "rating": "4.5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.8735809326172,
+                 35.199836730957
+             ]
+         },
+         "properties":
+         {
+             "name": "Carolina Doggie Playland",
+             "location.address1": "3111 S Tryon St",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28217",
+             "id": "carolina-doggie-playland-charlotte",
+             "display_phone": "(704) 529-7757",
+             "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Oa8EB8mq58OVI40snKyFwg/o.jpg",
+             "url": "https://www.yelp.com/biz/carolina-doggie-playland-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "17",
+             "rating": "5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.94721,
+                 35.12245
+             ]
+         },
+         "properties":
+         {
+             "name": "Chloe's Playhouse",
+             "location.address1": "S Tryon St",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28273",
+             "id": "chloes-playhouse-charlotte",
+             "display_phone": "(704) 942-5638",
+             "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/zhfnVkoHu48E_0jmrVI38A/o.jpg",
+             "url": "https://www.yelp.com/biz/chloes-playhouse-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "5",
+             "rating": "5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-81.07493,
+                 35.28343
+             ]
+         },
+         "properties":
+         {
+             "name": "Kennelina Pet Resort",
+             "location.address1": "530 Turner Rd",
+             "location.city": "Gastonia",
+             "location.state": "NC",
+             "location.zip_code": "28056",
+             "id": "kennelina-pet-resort-gastonia",
+             "display_phone": "(704) 820-8484",
+             "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/nUP3JXnpc9TUGE269fHwUw/o.jpg",
+             "url": "https://www.yelp.com/biz/kennelina-pet-resort-gastonia?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "4",
+             "rating": "5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.9923488,
+                 35.0534523
+             ]
+         },
+         "properties":
+         {
+             "name": "Dirty Dog Depot",
+             "location.address1": "2627 Highway 160 W",
+             "location.city": "Fort Mill",
+             "location.state": "SC",
+             "location.zip_code": "29708",
+             "id": "dirty-dog-depot-fort-mill",
+             "display_phone": "(803) 548-1301",
+             "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/rG4sLlZGjBpgr0_pu5VOkQ/o.jpg",
+             "url": "https://www.yelp.com/biz/dirty-dog-depot-fort-mill?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "15",
+             "rating": "3"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.8768082,
+                 35.1850319
+             ]
+         },
+         "properties":
+         {
+             "name": "Dogs All Day",
+             "location.address1": "4240 South Blvd",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28209",
+             "id": "dogs-all-day-charlotte",
+             "display_phone": "(704) 523-3380",
+             "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/GKarTHDUsuyq1BwTEaY6_A/o.jpg",
+             "url": "https://www.yelp.com/biz/dogs-all-day-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "26",
+             "rating": "4"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.9890928956157,
+                 35.0478589353753
+             ]
+         },
+         "properties":
+         {
+             "name": "Tega K9 Training & Daycare",
+             "location.address1": "1652 Katy Ln",
+             "location.city": "Fort Mill",
+             "location.state": "SC",
+             "location.zip_code": "29708",
+             "id": "tega-k9-training-and-daycare-fort-mill",
+             "display_phone": "(803) 802-0032",
+             "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/xlnMflO7wp3LMpJpvhVD0A/o.jpg",
+             "url": "https://www.yelp.com/biz/tega-k9-training-and-daycare-fort-mill?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "6",
+             "rating": "5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.88013,
+                 35.17373
+             ]
+         },
+         "properties":
+         {
+             "name": "Dogtopia",
+             "location.address1": "616 Springbrook Rd",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28217",
+             "id": "dogtopia-charlotte",
+             "display_phone": "(704) 525-4440",
+             "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Kw6wBysma225xr-pitK1QQ/o.jpg",
+             "url": "https://www.yelp.com/biz/dogtopia-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "40",
+             "rating": "4"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.8640899658203,
+                 35.0933227539062
+             ]
+         },
+         "properties":
+         {
+             "name": "Best Friends Pet Care Charlotte",
+             "location.address1": "10301 Feldfarm Ln",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28210",
+             "id": "best-friends-pet-care-charlotte-charlotte",
+             "display_phone": "(704) 752-0504",
+             "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/FY0VjOwIu1Xz50ly09KGpQ/o.jpg",
+             "url": "https://www.yelp.com/biz/best-friends-pet-care-charlotte-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "30",
+             "rating": "4"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.8980458,
+                 35.1621037
+             ]
+         },
+         "properties":
+         {
+             "name": "Wags In The City Pet Services",
+             "location.address1": "6546 Quail Hollow Rd",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28210",
+             "id": "wags-in-the-city-pet-services-charlotte",
+             "display_phone": "(704) 584-9247",
+             "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/xBOPSKCXniDATn3h1H6q-Q/o.jpg",
+             "url": "https://www.yelp.com/biz/wags-in-the-city-pet-services-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "27",
+             "rating": "4.5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.8730999,
+                 35.2343199
+             ]
+         },
+         "properties":
+         {
+             "name": "Lucky Dog Bark & Brew",
+             "location.address1": "2220 Thrift Rd",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28208",
+             "id": "lucky-dog-bark-and-brew-charlotte-3",
+             "display_phone": "(704) 333-4114",
+             "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/UdluwaFY5HuQq1jSjgVbVA/o.jpg",
+             "url": "https://www.yelp.com/biz/lucky-dog-bark-and-brew-charlotte-3?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "48",
+             "rating": "4.5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.9011764526367,
+                 35.0924377441406
+             ]
+         },
+         "properties":
+         {
+             "name": "Pineville Pet Quarters",
+             "location.address1": "12716 Downs Cir",
+             "location.city": "Pineville",
+             "location.state": "NC",
+             "location.zip_code": "28134",
+             "id": "pineville-pet-quarters-pineville",
+             "display_phone": "(704) 588-5800",
+             "image_url": "",
+             "url": "https://www.yelp.com/biz/pineville-pet-quarters-pineville?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "3",
+             "rating": "5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.88376,
+                 35.08009
+             ]
+         },
+         "properties":
+         {
+             "name": "Social Pet",
+             "location.address1": "515 Towne Centre Blvd",
+             "location.city": "Pineville",
+             "location.state": "NC",
+             "location.zip_code": "28134",
+             "id": "social-pet-pineville",
+             "display_phone": "(704) 835-1022",
+             "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/u6g1A6NUUnghGmEkiWLd7g/o.jpg",
+             "url": "https://www.yelp.com/biz/social-pet-pineville?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "14",
+             "rating": "4"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.8178329,
+                 35.238244
+             ]
+         },
+         "properties":
+         {
+             "name": "NoDa Bark and Board",
+             "location.address1": "2001 N Davidson St",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28205",
+             "id": "noda-bark-and-board-charlotte",
+             "display_phone": "(704) 376-0801",
+             "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/BS8hUs3C4viZ1kRU7h744A/o.jpg",
+             "url": "https://www.yelp.com/biz/noda-bark-and-board-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "8",
+             "rating": "4.5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.813,
+                 35.0628
+             ]
+         },
+         "properties":
+         {
+             "name": "Piper Glen Animal Hospital",
+             "location.address1": "5105 Piper Station Dr",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28277",
+             "id": "piper-glen-animal-hospital-charlotte",
+             "display_phone": "(704) 541-7171",
+             "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/QwsAOtsg4O3lhm9URhUTqA/o.jpg",
+             "url": "https://www.yelp.com/biz/piper-glen-animal-hospital-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "14",
+             "rating": "4.5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.8291625976562,
+                 35.0458602905273
+             ]
+         },
+         "properties":
+         {
+             "name": "Charlotte Pet Sitting",
+             "location.address1": "10403 Buffton Ct",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28277",
+             "id": "charlotte-pet-sitting-charlotte",
+             "display_phone": "(704) 287-7395",
+             "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/2wyn2FmouUqExGueuN2bjw/o.jpg",
+             "url": "https://www.yelp.com/biz/charlotte-pet-sitting-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "4",
+             "rating": "4.5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.8129,
+                 35.05427
+             ]
+         },
+         "properties":
+         {
+             "name": "Rea Road Animal Hospital",
+             "location.address1": "8100 Williams Pond Ln",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28277",
+             "id": "rea-road-animal-hospital-charlotte",
+             "display_phone": "(704) 544-6313",
+             "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/SK1E8hy9ZlNwyjG0eZiv9w/o.jpg",
+             "url": "https://www.yelp.com/biz/rea-road-animal-hospital-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "20",
+             "rating": "4"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.8876266479492,
+                 35.0056915283203
+             ]
+         },
+         "properties":
+         {
+             "name": "Wags & Whiskers",
+             "location.address1": "900 Fort Mill Hwy",
+             "location.city": "Fort Mill",
+             "location.state": "SC",
+             "location.zip_code": "29707",
+             "id": "wags-and-whiskers-fort-mill",
+             "display_phone": "(803) 548-3647",
+             "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Acw9uZVHKLBLdW0D4i5tiA/o.jpg",
+             "url": "https://www.yelp.com/biz/wags-and-whiskers-fort-mill?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "5",
+             "rating": "4"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.7970799,
+                 35.1054699
+             ]
+         },
+         "properties":
+         {
+             "name": "Queen City Petsitting",
+             "location.address1": "7418 Edenbridge Ln",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28226",
+             "id": "queen-city-petsitting-charlotte",
+             "display_phone": "(980) 202-2745",
+             "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/F07bAmaPz9NfZWxWYIk9mQ/o.jpg",
+             "url": "https://www.yelp.com/biz/queen-city-petsitting-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "37",
+             "rating": "4.5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.7408829,
+                 35.0392838
+             ]
+         },
+         "properties":
+         {
+             "name": "DSL Dog Training and Boarding",
+             "location.address1": "5109 Weddington Matthews Rd",
+             "location.city": "Matthews",
+             "location.state": "NC",
+             "location.zip_code": "28104",
+             "id": "dsl-dog-training-and-boarding-matthews",
+             "display_phone": "(704) 258-0061",
+             "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/1yjv9H_Ds2-BnFE61oTRKw/o.jpg",
+             "url": "https://www.yelp.com/biz/dsl-dog-training-and-boarding-matthews?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "3",
+             "rating": "2.5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.861386,
+                 35.088968
+             ]
+         },
+         "properties":
+         {
+             "name": "St Francis Hospital For Animals",
+             "location.address1": "10709 Kettering Dr",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28226",
+             "id": "st-francis-hospital-for-animals-charlotte",
+             "display_phone": "(704) 527-2030",
+             "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/G4OhzE18YDAikkn3NDwP9Q/o.jpg",
+             "url": "https://www.yelp.com/biz/st-francis-hospital-for-animals-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "21",
+             "rating": "5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.8000183105469,
+                 34.9824104309082
+             ]
+         },
+         "properties":
+         {
+             "name": "Pet Protege LLC",
+             "location.address1": "9623 Belloak Ln",
+             "location.city": "Waxhaw",
+             "location.state": "NC",
+             "location.zip_code": "28173",
+             "id": "pet-protege-llc-waxhaw",
+             "display_phone": "(704) 773-6512",
+             "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/SNJnW4pgDnijnLZTK66E-g/o.jpg",
+             "url": "https://www.yelp.com/biz/pet-protege-llc-waxhaw?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "2",
+             "rating": "5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.7333908081055,
+                 35.1287727355957
+             ]
+         },
+         "properties":
+         {
+             "name": "Matthews Animal Clinic",
+             "location.address1": "10600 Monroe Rd",
+             "location.city": "Matthews",
+             "location.state": "NC",
+             "location.zip_code": "28105",
+             "id": "matthews-animal-clinic-matthews",
+             "display_phone": "(704) 847-9856",
+             "image_url": "",
+             "url": "https://www.yelp.com/biz/matthews-animal-clinic-matthews?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "19",
+             "rating": "4.5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.6692352,
+                 35.0768141
+             ]
+         },
+         "properties":
+         {
+             "name": "Happy Paws & Pet Pals LLC",
+             "location.address1": "",
+             "location.city": "Indian Trail",
+             "location.state": "NC",
+             "location.zip_code": "28079",
+             "id": "happy-paws-and-pet-pals-llc-indian-trail",
+             "display_phone": "(704) 491-7964",
+             "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/GH4AScC3bE2uj6GikefC9w/o.jpg",
+             "url": "https://www.yelp.com/biz/happy-paws-and-pet-pals-llc-indian-trail?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "4",
+             "rating": "5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.7443237304688,
+                 35.0783615112305
+             ]
+         },
+         "properties":
+         {
+             "name": "Furry Pals",
+             "location.address1": "3518 Rhett Butler Pl",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28270",
+             "id": "furry-pals-charlotte",
+             "display_phone": "(704) 849-8220",
+             "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/OVYsvDofQvygR7aYrhjBJQ/o.jpg",
+             "url": "https://www.yelp.com/biz/furry-pals-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "9",
+             "rating": "4"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.8906918,
+                 35.0854438
+             ]
+         },
+         "properties":
+         {
+             "name": "Fluffs of Luv Pet Care",
+             "location.address1": "315 Main St",
+             "location.city": "Pineville",
+             "location.state": "NC",
+             "location.zip_code": "28134",
+             "id": "fluffs-of-luv-pet-care-pineville-2",
+             "display_phone": "(704) 421-3492",
+             "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/iiFnZZDxWAT2MILZn3DPPg/o.jpg",
+             "url": "https://www.yelp.com/biz/fluffs-of-luv-pet-care-pineville-2?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "20",
+             "rating": "4.5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.8831079,
+                 35.080239
+             ]
+         },
+         "properties":
+         {
+             "name": "Off Leash Dog Training",
+             "location.address1": "515 Towne Centre Blvd",
+             "location.city": "Pineville",
+             "location.state": "NC",
+             "location.zip_code": "28134",
+             "id": "off-leash-dog-training-pineville-2",
+             "display_phone": "(888) 811-3647",
+             "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/MjuREDjAHL8kxFKc6wL_wg/o.jpg",
+             "url": "https://www.yelp.com/biz/off-leash-dog-training-pineville-2?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "3",
+             "rating": "3.5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.8483657836914,
+                 35.0886192321777
+             ]
+         },
+         "properties":
+         {
+             "name": "Atrium Animal Hospital",
+             "location.address1": "6520 McMahan Dr",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28226",
+             "id": "atrium-animal-hospital-charlotte",
+             "display_phone": "(704) 542-2000",
+             "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/7Jj27oAEshnxxo25N2ducg/o.jpg",
+             "url": "https://www.yelp.com/biz/atrium-animal-hospital-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "21",
+             "rating": "4.5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.796578,
+                 35.197614
+             ]
+         },
+         "properties":
+         {
+             "name": "Caitlin's Tender Love & Pet Care, LLC",
+             "location.address1": "3814 Miriam Dr",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28205",
+             "id": "caitlins-tender-love-and-pet-care-llc-charlotte-3",
+             "display_phone": "(336) 262-2325",
+             "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/1rLnjlM1X_D4-EFfpInabA/o.jpg",
+             "url": "https://www.yelp.com/biz/caitlins-tender-love-and-pet-care-llc-charlotte-3?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "11",
+             "rating": "4.5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.88664,
+                 35.08284
+             ]
+         },
+         "properties":
+         {
+             "name": "Friendship Animal Hospital",
+             "location.address1": "304 S Polk St",
+             "location.city": "Pineville",
+             "location.state": "NC",
+             "location.zip_code": "28134",
+             "id": "friendship-animal-hospital-pineville",
+             "display_phone": "(704) 889-7387",
+             "image_url": "",
+             "url": "https://www.yelp.com/biz/friendship-animal-hospital-pineville?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "2",
+             "rating": "5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.94272,
+                 35.12621
+             ]
+         },
+         "properties":
+         {
+             "name": "Steele Creek Animal Hospital",
+             "location.address1": "9729 S Tryon St",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28273",
+             "id": "steele-creek-animal-hospital-charlotte",
+             "display_phone": "(704) 588-4400",
+             "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Q0LOqwTgvoI0jUREV5lmMg/o.jpg",
+             "url": "https://www.yelp.com/biz/steele-creek-animal-hospital-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "11",
+             "rating": "3.5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.87706,
+                 35.15312
+             ]
+         },
+         "properties":
+         {
+             "name": "Archdale Animal Hospital",
+             "location.address1": "1319 Archdale Dr",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28217",
+             "id": "archdale-animal-hospital-charlotte",
+             "display_phone": "(704) 552-2333",
+             "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/R45PI0y8D7Ol9FafDpZXMg/o.jpg",
+             "url": "https://www.yelp.com/biz/archdale-animal-hospital-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "16",
+             "rating": "5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.881511,
+                 35.129451
+             ]
+         },
+         "properties":
+         {
+             "name": "Carolinas Critter Sitters",
+             "location.address1": "4717 Sweden Rd",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28273",
+             "id": "carolinas-critter-sitters-charlotte-5",
+             "display_phone": "(704) 970-7297",
+             "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/7dhNvkC1piAdDoQ4n5-Tyg/o.jpg",
+             "url": "https://www.yelp.com/biz/carolinas-critter-sitters-charlotte-5?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "5",
+             "rating": "4"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.728907,
+                 35.141915
+             ]
+         },
+         "properties":
+         {
+             "name": "Camp Bow Wow Matthews",
+             "location.address1": "8635 Crown Crescent Ct",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28227",
+             "id": "camp-bow-wow-matthews-charlotte-2",
+             "display_phone": "(704) 708-9663",
+             "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/JY1aqLppr3T1AtZgnCp9Fg/o.jpg",
+             "url": "https://www.yelp.com/biz/camp-bow-wow-matthews-charlotte-2?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "26",
+             "rating": "4.5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.82646,
+                 35.11622
+             ]
+         },
+         "properties":
+         {
+             "name": "White Wings Pet-Sitting",
+             "location.address1": "Carmel Rd/Quail Hollow Rd",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28226",
+             "id": "white-wings-pet-sitting-charlotte",
+             "display_phone": "(704) 491-0593",
+             "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/3lcB2HnnyWXZMvVMBbDxGQ/o.jpg",
+             "url": "https://www.yelp.com/biz/white-wings-pet-sitting-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "3",
+             "rating": "5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.82663,
+                 35.34651
+             ]
+         },
+         "properties":
+         {
+             "name": "One Lucky Pup Dog Daycare & Boarding",
+             "location.address1": "11607 Reames Rd",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28269",
+             "id": "one-lucky-pup-dog-daycare-and-boarding-charlotte",
+             "display_phone": "(704) 494-8476",
+             "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/m2-OIGxS1sLrskAGPQr1IA/o.jpg",
+             "url": "https://www.yelp.com/biz/one-lucky-pup-dog-daycare-and-boarding-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "14",
+             "rating": "4.5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.8411102294922,
+                 35.3396759033203
+             ]
+         },
+         "properties":
+         {
+             "name": "Puptown Charlotte",
+             "location.address1": "8702 Statesville Rd",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28269",
+             "id": "puptown-charlotte-charlotte",
+             "display_phone": "(704) 921-2434",
+             "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/EMRPRf6imE1yOhCAA6O4LA/o.jpg",
+             "url": "https://www.yelp.com/biz/puptown-charlotte-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "15",
+             "rating": "4.5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.8425843715668,
+                 35.3767342865467
+             ]
+         },
+         "properties":
+         {
+             "name": "Hambright Animal Hospital",
+             "location.address1": "11725 Hambright Rd",
+             "location.city": "Huntersville",
+             "location.state": "NC",
+             "location.zip_code": "28078",
+             "id": "hambright-animal-hospital-huntersville",
+             "display_phone": "(704) 912-5333",
+             "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/yESop0lfT261ZWgHwa50EA/o.jpg",
+             "url": "https://www.yelp.com/biz/hambright-animal-hospital-huntersville?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "17",
+             "rating": "4.5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.840538,
+                 35.4347916
+             ]
+         },
+         "properties":
+         {
+             "name": "Happy Paws Daycare & Kennel",
+             "location.address1": "11700 McCord Rd",
+             "location.city": "Huntersville",
+             "location.state": "NC",
+             "location.zip_code": "28078",
+             "id": "happy-paws-daycare-and-kennel-huntersville",
+             "display_phone": "(704) 274-9188",
+             "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/qFsry1H6nQk5UrCqbyq2Vw/o.jpg",
+             "url": "https://www.yelp.com/biz/happy-paws-daycare-and-kennel-huntersville?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "5",
+             "rating": "4"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.7137866,
+                 35.4011232
+             ]
+         },
+         "properties":
+         {
+             "name": "Camp Bow Wow Concord",
+             "location.address1": "8010 Myint Ln",
+             "location.city": "Concord",
+             "location.state": "NC",
+             "location.zip_code": "28027",
+             "id": "camp-bow-wow-concord-concord-3",
+             "display_phone": "(704) 260-0055",
+             "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/5r-aa4TuSyacu1z2B3CvKQ/o.jpg",
+             "url": "https://www.yelp.com/biz/camp-bow-wow-concord-concord-3?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "21",
+             "rating": "5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.85398,
+                 35.4610399
+             ]
+         },
+         "properties":
+         {
+             "name": "Camp Wagging Tails",
+             "location.address1": "10835 Bailey Rd",
+             "location.city": "Cornelius",
+             "location.state": "NC",
+             "location.zip_code": "28031",
+             "id": "camp-wagging-tails-cornelius",
+             "display_phone": "(704) 895-8444",
+             "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/9uNtaRDzmC_Ie4lghdp9Yw/o.jpg",
+             "url": "https://www.yelp.com/biz/camp-wagging-tails-cornelius?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "15",
+             "rating": "3.5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.82794,
+                 35.3366
+             ]
+         },
+         "properties":
+         {
+             "name": "Harris Boulevard Veterinary Clinic",
+             "location.address1": "5710 West Wt Harris Blvd",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28269",
+             "id": "harris-boulevard-veterinary-clinic-charlotte",
+             "display_phone": "(980) 474-2895",
+             "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/JgZCdEzkQ8Z2I6jsoo-ZMQ/o.jpg",
+             "url": "https://www.yelp.com/biz/harris-boulevard-veterinary-clinic-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "10",
+             "rating": "4.5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.86988,
+                 35.43373
+             ]
+         },
+         "properties":
+         {
+             "name": "Birkdale Animal Hospital",
+             "location.address1": "16010 Northcross Dr",
+             "location.city": "Huntersville",
+             "location.state": "NC",
+             "location.zip_code": "28078",
+             "id": "birkdale-animal-hospital-huntersville",
+             "display_phone": "(704) 655-0202",
+             "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/qVXNbQl320IDC7sAKQOn7Q/o.jpg",
+             "url": "https://www.yelp.com/biz/birkdale-animal-hospital-huntersville?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "23",
+             "rating": "5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.913817,
+                 35.4268349
+             ]
+         },
+         "properties":
+         {
+             "name": "Pet Paradise Lake Norman",
+             "location.address1": "15020 Brown Mill",
+             "location.city": "Huntersville",
+             "location.state": "NC",
+             "location.zip_code": "28078",
+             "id": "pet-paradise-lake-norman-huntersville",
+             "display_phone": "(704) 875-8668",
+             "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/7k8z_Ef9YbnWfbB2eYqmow/o.jpg",
+             "url": "https://www.yelp.com/biz/pet-paradise-lake-norman-huntersville?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "12",
+             "rating": "4"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.7370283156797,
+                 35.3284172551435
+             ]
+         },
+         "properties":
+         {
+             "name": "VCA Stoney Creek Animal Hospital",
+             "location.address1": "626 W Mallard Creek Church Rd",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28262",
+             "id": "vca-stoney-creek-animal-hospital-charlotte",
+             "display_phone": "(704) 717-0616",
+             "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/gmMLI3bvp5UdlehcYvFJNg/o.jpg",
+             "url": "https://www.yelp.com/biz/vca-stoney-creek-animal-hospital-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "17",
+             "rating": "3"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.798523,
+                 35.309441
+             ]
+         },
+         "properties":
+         {
+             "name": "Mother Hen Pet Sitting",
+             "location.address1": "6803 Brachnell View Dr",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28269",
+             "id": "mother-hen-pet-sitting-charlotte",
+             "display_phone": "(980) 226-8639",
+             "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/SxlmT83K57SnRlHKLvaM2A/o.jpg",
+             "url": "https://www.yelp.com/biz/mother-hen-pet-sitting-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "4",
+             "rating": "5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.6980133056641,
+                 35.3236999511719
+             ]
+         },
+         "properties":
+         {
+             "name": "Happy Tails Pet Services",
+             "location.address1": "10701 Whittersham Dr",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28262",
+             "id": "happy-tails-pet-services-charlotte",
+             "display_phone": "(704) 717-9113",
+             "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/fZLBhgml2dyTMD9C-Bb7gA/o.jpg",
+             "url": "https://www.yelp.com/biz/happy-tails-pet-services-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "3",
+             "rating": "5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.87351,
+                 35.48192
+             ]
+         },
+         "properties":
+         {
+             "name": "Lucky Dog Bark & Brew",
+             "location.address1": "19607 Statesville Rd",
+             "location.city": "Cornelius",
+             "location.state": "NC",
+             "location.zip_code": "28031",
+             "id": "lucky-dog-bark-and-brew-cornelius",
+             "display_phone": "(704) 896-5550",
+             "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/9UNVUlCo_4sDlICLIs9V9w/o.jpg",
+             "url": "https://www.yelp.com/biz/lucky-dog-bark-and-brew-cornelius?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "34",
+             "rating": "4.5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.89158,
+                 35.34325
+             ]
+         },
+         "properties":
+         {
+             "name": "K9-BootCamp",
+             "location.address1": "Trotter Rd",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28216",
+             "id": "k9-bootcamp-charlotte",
+             "display_phone": "(980) 322-8980",
+             "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/GhayUy_YRhrpFPXDzYM8vQ/o.jpg",
+             "url": "https://www.yelp.com/biz/k9-bootcamp-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "4",
+             "rating": "5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.8140312,
+                 35.2527743
+             ]
+         },
+         "properties":
+         {
+             "name": "City Dog USA",
+             "location.address1": "224 W 32nd St",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28206",
+             "id": "city-dog-usa-charlotte",
+             "display_phone": "(980) 218-0006",
+             "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/igvVKdkUGXMnEwjqx8W8Nw/o.jpg",
+             "url": "https://www.yelp.com/biz/city-dog-usa-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "17",
+             "rating": "4.5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.73897,
+                 35.31559
+             ]
+         },
+         "properties":
+         {
+             "name": "Hight Veterinary Hospital",
+             "location.address1": "9528 N Tryon St",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28262",
+             "id": "hight-veterinary-hospital-charlotte",
+             "display_phone": "(704) 595-9377",
+             "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Nz0pPrG4mZB5fPwSEiWJZA/o.jpg",
+             "url": "https://www.yelp.com/biz/hight-veterinary-hospital-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "4",
+             "rating": "2.5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.856987,
+                 35.228784
+             ]
+         },
+         "properties":
+         {
+             "name": "Little Friends Pet Sitting & Dog Walking",
+             "location.address1": "621 McNinch St",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28208",
+             "id": "little-friends-pet-sitting-and-dog-walking-charlotte-5",
+             "display_phone": "(704) 340-8102",
+             "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/nmJlc1G0hpekXWvDIwtGjA/o.jpg",
+             "url": "https://www.yelp.com/biz/little-friends-pet-sitting-and-dog-walking-charlotte-5?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "47",
+             "rating": "5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.7623693,
+                 35.2953438
+             ]
+         },
+         "properties":
+         {
+             "name": "PetSmart",
+             "location.address1": "8150 Ikea Blvd,Suite 25",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28262",
+             "id": "petsmart-charlotte-9",
+             "display_phone": "(704) 208-5264",
+             "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/IiO2BN5H-Oc6aSutZWg8rg/o.jpg",
+             "url": "https://www.yelp.com/biz/petsmart-charlotte-9?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "15",
+             "rating": "3"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.653740364418,
+                 35.3224132039963
+             ]
+         },
+         "properties":
+         {
+             "name": "K-9 Dezign Dog Grooming and Boarding",
+             "location.address1": "4604 Hwy 49 S",
+             "location.city": "Harrisburg",
+             "location.state": "NC",
+             "location.zip_code": "28075",
+             "id": "k-9-dezign-dog-grooming-and-boarding-harrisburg-9",
+             "display_phone": "(704) 455-3924",
+             "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/eVp7ZaJvd2KDpAVctx2pPw/o.jpg",
+             "url": "https://www.yelp.com/biz/k-9-dezign-dog-grooming-and-boarding-harrisburg-9?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "1",
+             "rating": "3"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.84439,
+                 35.23039
+             ]
+         },
+         "properties":
+         {
+             "name": "The Waggle Company",
+             "location.address1": "",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28202",
+             "id": "the-waggle-company-charlotte-2",
+             "display_phone": "(980) 272-8148",
+             "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/gKPUDfFR-yDWuqZ0v9N3UA/o.jpg",
+             "url": "https://www.yelp.com/biz/the-waggle-company-charlotte-2?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "12",
+             "rating": "5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.837542125,
+                 35.2261385279837
+             ]
+         },
+         "properties":
+         {
+             "name": "Tuscarora Country Club For Dogs",
+             "location.address1": "10900 Cruse Rd",
+             "location.city": "Mount Pleasant",
+             "location.state": "NC",
+             "location.zip_code": "28124",
+             "id": "tuscarora-country-club-for-dogs-mount-pleasant",
+             "display_phone": "(704) 912-4635",
+             "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/QuSc3-DgH7eCZ4B8_rI1yg/o.jpg",
+             "url": "https://www.yelp.com/biz/tuscarora-country-club-for-dogs-mount-pleasant?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "1",
+             "rating": "5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.6543197631836,
+                 35.3222312927246
+             ]
+         },
+         "properties":
+         {
+             "name": "University Animal Medical & Dental Clinic",
+             "location.address1": "4650 Highway 49 S",
+             "location.city": "Harrisburg",
+             "location.state": "NC",
+             "location.zip_code": "28075",
+             "id": "university-animal-medical-and-dental-clinic-harrisburg",
+             "display_phone": "(704) 455-5907",
+             "image_url": "",
+             "url": "https://www.yelp.com/biz/university-animal-medical-and-dental-clinic-harrisburg?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "1",
+             "rating": "5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.8376998901367,
+                 35.2245712280273
+             ]
+         },
+         "properties":
+         {
+             "name": "Carolinas Critter Sitters",
+             "location.address1": "",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28271",
+             "id": "carolinas-critter-sitters-charlotte-2",
+             "display_phone": "(704) 661-0837",
+             "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/qC38VmwTLBDAF0CmmGoTzw/o.jpg",
+             "url": "https://www.yelp.com/biz/carolinas-critter-sitters-charlotte-2?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "7",
+             "rating": "5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.752983,
+                 35.263881
+             ]
+         },
+         "properties":
+         {
+             "name": "Granbar Kennels",
+             "location.address1": "6700 Orr Rd",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28213",
+             "id": "granbar-kennels-charlotte",
+             "display_phone": "(704) 596-8941",
+             "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Asg-FH8opDAaCZ8ALhx-tg/o.jpg",
+             "url": "https://www.yelp.com/biz/granbar-kennels-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "9",
+             "rating": "3"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.8431267,
+                 35.2270869
+             ]
+         },
+         "properties":
+         {
+             "name": "The Paw Sitter",
+             "location.address1": "",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28105",
+             "id": "the-paw-sitter-charlotte",
+             "display_phone": "(704) 648-7157",
+             "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Wzu3YpHQB6NbpcLZIOXAGA/o.jpg",
+             "url": "https://www.yelp.com/biz/the-paw-sitter-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "12",
+             "rating": "5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.7071,
+                 35.12022
+             ]
+         },
+         "properties":
+         {
+             "name": "Pet Paradise - Matthews",
+             "location.address1": "10714 Independence Pointe Pkwy",
+             "location.city": "Matthews",
+             "location.state": "NC",
+             "location.zip_code": "28105",
+             "id": "pet-paradise-matthews-matthews",
+             "display_phone": "(704) 246-4206",
+             "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/oRkxCmST1W8cfAyoFzOo5Q/o.jpg",
+             "url": "https://www.yelp.com/biz/pet-paradise-matthews-matthews?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "11",
+             "rating": "4"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.70564,
+                 35.1855
+             ]
+         },
+         "properties":
+         {
+             "name": "Charlotte Canine Academy",
+             "location.address1": "4806 Spicewood Dr",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28227",
+             "id": "charlotte-canine-academy-charlotte",
+             "display_phone": "(401) 283-8788",
+             "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/QoDIf0FvHwPt2wZG5zbB3g/o.jpg",
+             "url": "https://www.yelp.com/biz/charlotte-canine-academy-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "6",
+             "rating": "5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.6454,
+                 35.1796
+             ]
+         },
+         "properties":
+         {
+             "name": "Mint Hill Animal Hospital",
+             "location.address1": "8101 Fairview Rd",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28227",
+             "id": "mint-hill-animal-hospital-mint-hill-2",
+             "display_phone": "(704) 545-3422",
+             "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/x2AVxPu3dmUxiwfALGC3jA/o.jpg",
+             "url": "https://www.yelp.com/biz/mint-hill-animal-hospital-mint-hill-2?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "4",
+             "rating": "4"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.6382,
+                 35.0669
+             ]
+         },
+         "properties":
+         {
+             "name": "Charlotte Kennels",
+             "location.address1": "5000 Sardis Dr",
+             "location.city": "Indian Trail",
+             "location.state": "NC",
+             "location.zip_code": "28079",
+             "id": "charlotte-kennels-indian-trail",
+             "display_phone": "(704) 821-1318",
+             "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/H4YNLA75ih9vBTwaQi_DJw/o.jpg",
+             "url": "https://www.yelp.com/biz/charlotte-kennels-indian-trail?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "13",
+             "rating": "4.5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.625175,
+                 35.112186
+             ]
+         },
+         "properties":
+         {
+             "name": "Unleashed Pet Resort",
+             "location.address1": "6500 Clearwater Dr",
+             "location.city": "Indian Trail",
+             "location.state": "NC",
+             "location.zip_code": "28079",
+             "id": "unleashed-pet-resort-indian-trail",
+             "display_phone": "(704) 574-0459",
+             "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/_RMmtF9uUFtkX5D17pKBFw/o.jpg",
+             "url": "https://www.yelp.com/biz/unleashed-pet-resort-indian-trail?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "2",
+             "rating": "5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.610939,
+                 35.161777
+             ]
+         },
+         "properties":
+         {
+             "name": "The Daily Dog LLC",
+             "location.address1": "10610 Persimmon Creek Dr",
+             "location.city": "Mint Hill",
+             "location.state": "NC",
+             "location.zip_code": "28227",
+             "id": "the-daily-dog-llc-mint-hill",
+             "display_phone": "(980) 228-0058",
+             "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/7AgbRI9WGIZTaFAxmDdSog/o.jpg",
+             "url": "https://www.yelp.com/biz/the-daily-dog-llc-mint-hill?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "1",
+             "rating": "5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.7085029,
+                 35.171981
+             ]
+         },
+         "properties":
+         {
+             "name": "NODA Animal Hospital",
+             "location.address1": "9705 Mintworth Ave",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28227",
+             "id": "noda-animal-hospital-charlotte",
+             "display_phone": "(704) 375-0212",
+             "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/8koKOXbloy7wgXXp7a0lfA/o.jpg",
+             "url": "https://www.yelp.com/biz/noda-animal-hospital-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "20",
+             "rating": "4"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.6548309326172,
+                 35.1853904724121
+             ]
+         },
+         "properties":
+         {
+             "name": "Charlotte Mobile Pet Spa",
+             "location.address1": "",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28227",
+             "id": "charlotte-mobile-pet-spa-charlotte",
+             "display_phone": "(704) 576-3565",
+             "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/rxwGW__oRAEO-11DcKfWYA/o.jpg",
+             "url": "https://www.yelp.com/biz/charlotte-mobile-pet-spa-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "1",
+             "rating": "5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.6862106,
+                 35.2122917
+             ]
+         },
+         "properties":
+         {
+             "name": "Clear Creek Animal Hospital",
+             "location.address1": "6916 Harrisburg Rd",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28215",
+             "id": "clear-creek-animal-hospital-charlotte",
+             "display_phone": "(704) 537-8405",
+             "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/bzJxtN65-0YshrhUN1xnDA/o.jpg",
+             "url": "https://www.yelp.com/biz/clear-creek-animal-hospital-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "6",
+             "rating": "4"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.60555,
+                 35.24022
+             ]
+         },
+         "properties":
+         {
+             "name": "Pooch Ventures North Carolina",
+             "location.address1": "",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28227",
+             "id": "pooch-ventures-north-carolina-charlotte",
+             "display_phone": "(980) 785-3647",
+             "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/JnCffiV30-0Dp0jL5cPPIg/o.jpg",
+             "url": "https://www.yelp.com/biz/pooch-ventures-north-carolina-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "1",
+             "rating": "5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.601593,
+                 35.300846
+             ]
+         },
+         "properties":
+         {
+             "name": "Wyolina Kennels",
+             "location.address1": "1621 Pembrook Rd",
+             "location.city": "Harrisburg",
+             "location.state": "NC",
+             "location.zip_code": "28075",
+             "id": "wyolina-kennels-harrisburg",
+             "display_phone": "(704) 455-5500",
+             "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/aJVNYznRvhVA7aKEc_WDyA/o.jpg",
+             "url": "https://www.yelp.com/biz/wyolina-kennels-harrisburg?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "6",
+             "rating": "5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.70101,
+                 35.16413
+             ]
+         },
+         "properties":
+         {
+             "name": "Animal Kennel Care",
+             "location.address1": "10524 Idlewild Rd",
+             "location.city": "Matthews",
+             "location.state": "NC",
+             "location.zip_code": "28105",
+             "id": "animal-kennel-care-matthews",
+             "display_phone": "(704) 545-5192",
+             "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/T22qDptBITPjMnwqZZaJNg/o.jpg",
+             "url": "https://www.yelp.com/biz/animal-kennel-care-matthews?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "4",
+             "rating": "4.5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.60555,
+                 35.24022
+             ]
+         },
+         "properties":
+         {
+             "name": "Trusty Sidekick Petsitting",
+             "location.address1": "",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28227",
+             "id": "trusty-sidekick-petsitting-charlotte",
+             "display_phone": "(704) 277-5945",
+             "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/GOZFvCfOHfamNGyp4rVdrg/o.jpg",
+             "url": "https://www.yelp.com/biz/trusty-sidekick-petsitting-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "1",
+             "rating": "5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.81856,
+                 35.12155
+             ]
+         },
+         "properties":
+         {
+             "name": "In Good Company Pet Sitting & Dog Walking",
+             "location.address1": "Carmel Rd",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28226",
+             "id": "in-good-company-pet-sitting-and-dog-walking-charlotte",
+             "display_phone": "(704) 968-4348",
+             "image_url": "",
+             "url": "https://www.yelp.com/biz/in-good-company-pet-sitting-and-dog-walking-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "1",
+             "rating": "5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.84922,
+                 35.158729
+             ]
+         },
+         "properties":
+         {
+             "name": "South Park Animal Hospital",
+             "location.address1": "5240 Park Rd",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28209",
+             "id": "south-park-animal-hospital-charlotte",
+             "display_phone": "(704) 523-3457",
+             "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/gwT7Vvdcdh9_E_zU1Q2U4w/o.jpg",
+             "url": "https://www.yelp.com/biz/south-park-animal-hospital-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "16",
+             "rating": "4"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.88294,
+                 35.17552
+             ]
+         },
+         "properties":
+         {
+             "name": "Camp Bow Wow Charlotte Metro",
+             "location.address1": "4900 Chastain Ave",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28217",
+             "id": "camp-bow-wow-charlotte-metro-charlotte-2",
+             "display_phone": "(704) 527-3647",
+             "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/L7TsZ4HV52VYna6vN3SAbQ/o.jpg",
+             "url": "https://www.yelp.com/biz/camp-bow-wow-charlotte-metro-charlotte-2?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "32",
+             "rating": "4"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.8646618,
+                 35.2023634
+             ]
+         },
+         "properties":
+         {
+             "name": "Long Animal Hospital",
+             "location.address1": "2523 South Blvd",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28203",
+             "id": "long-animal-hospital-charlotte-3",
+             "display_phone": "(704) 523-2996",
+             "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/WN_MUEwy-dNFWTIak6gO-g/o.jpg",
+             "url": "https://www.yelp.com/biz/long-animal-hospital-charlotte-3?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "84",
+             "rating": "3.5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.8665919,
+                 35.2105144
+             ]
+         },
+         "properties":
+         {
+             "name": "K9 Playland",
+             "location.address1": "2139 S Tryon St",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28203",
+             "id": "k9-playland-charlotte",
+             "display_phone": "(704) 525-9778",
+             "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/yZPmZR5YbqR3E6Of8HVSsA/o.jpg",
+             "url": "https://www.yelp.com/biz/k9-playland-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "29",
+             "rating": "4"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.8475570678711,
+                 35.1694374084473
+             ]
+         },
+         "properties":
+         {
+             "name": "The Ruff Life",
+             "location.address1": "",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28209",
+             "id": "the-ruff-life-charlotte-2",
+             "display_phone": "(980) 999-0105",
+             "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/0k8D5EFnBqeHm9qKceMSrw/o.jpg",
+             "url": "https://www.yelp.com/biz/the-ruff-life-charlotte-2?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "4",
+             "rating": "5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.905571,
+                 35.300678
+             ]
+         },
+         "properties":
+         {
+             "name": "Val's Bed Bath & Biscuit",
+             "location.address1": "1531 Oakdale Green Dr",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28216",
+             "id": "vals-bed-bath-and-biscuit-charlotte",
+             "display_phone": "(980) 335-9164",
+             "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/SAvRMo7tqFLG44jzuziFpg/o.jpg",
+             "url": "https://www.yelp.com/biz/vals-bed-bath-and-biscuit-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "1",
+             "rating": "5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.9583138,
+                 35.2950162
+             ]
+         },
+         "properties":
+         {
+             "name": "Labpups",
+             "location.address1": "1501 Gum Branch Rd",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28214",
+             "id": "labpups-charlotte-2",
+             "display_phone": "(704) 975-2726",
+             "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/1yDZ1MOju6W9EbxWT4S9Hw/o.jpg",
+             "url": "https://www.yelp.com/biz/labpups-charlotte-2?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "5",
+             "rating": "5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.7400399,
+                 35.23116
+             ]
+         },
+         "properties":
+         {
+             "name": "Hickory Grove Animal Hospital",
+             "location.address1": "5450 N Sharon Amity Rd",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28215",
+             "id": "hickory-grove-animal-hospital-charlotte",
+             "display_phone": "(704) 563-5858",
+             "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Mm_wShnDT9YHKztboY8GXg/o.jpg",
+             "url": "https://www.yelp.com/biz/hickory-grove-animal-hospital-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "5",
+             "rating": "4.5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.98903,
+                 35.30006
+             ]
+         },
+         "properties":
+         {
+             "name": "TotalBond Veterinary Hospital",
+             "location.address1": "11226 Mount Holly Rd",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28214",
+             "id": "totalbond-veterinary-hospital-charlotte-2",
+             "display_phone": "(704) 827-7422",
+             "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/OyxUf3KxkXPgxPkZxbXNzA/o.jpg",
+             "url": "https://www.yelp.com/biz/totalbond-veterinary-hospital-charlotte-2?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "8",
+             "rating": "2.5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-81.0376307305798,
+                 35.2432708863154
+             ]
+         },
+         "properties":
+         {
+             "name": "Happy Dog Cafe Boutique & Spa",
+             "location.address1": "26 N Main St",
+             "location.city": "Belmont",
+             "location.state": "NC",
+             "location.zip_code": "28012",
+             "id": "happy-dog-cafe-boutique-and-spa-belmont",
+             "display_phone": "(704) 825-5987",
+             "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/vz9ol43U_lbPOWFJDDRQiw/o.jpg",
+             "url": "https://www.yelp.com/biz/happy-dog-cafe-boutique-and-spa-belmont?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "13",
+             "rating": "5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-81.0280209034681,
+                 35.2524346858263
+             ]
+         },
+         "properties":
+         {
+             "name": "UrgentVet Pet Clinic",
+             "location.address1": "600-A Park St",
+             "location.city": "Belmont",
+             "location.state": "NC",
+             "location.zip_code": "28012",
+             "id": "urgentvet-pet-clinic-belmont",
+             "display_phone": "(704) 825-8868",
+             "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/3er_okuNvW_0sTDlrIeLYA/o.jpg",
+             "url": "https://www.yelp.com/biz/urgentvet-pet-clinic-belmont?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "10",
+             "rating": "5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.8036041259766,
+                 35.2039413452148
+             ]
+         },
+         "properties":
+         {
+             "name": "Midwood Barkery",
+             "location.address1": "3100 Monroe Rd",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28205",
+             "id": "midwood-barkery-charlotte",
+             "display_phone": "(980) 395-0498",
+             "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/u3cbrWzLMACrdlAi4NAL7A/o.jpg",
+             "url": "https://www.yelp.com/biz/midwood-barkery-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "6",
+             "rating": "5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.7902478849335,
+                 35.2352802151986
+             ]
+         },
+         "properties":
+         {
+             "name": "Midwood Pet Sitting",
+             "location.address1": "",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28205",
+             "id": "midwood-pet-sitting-charlotte",
+             "display_phone": "(704) 449-9742",
+             "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/aUOezC3_Q6RSwNe6Sb534A/o.jpg",
+             "url": "https://www.yelp.com/biz/midwood-pet-sitting-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "4",
+             "rating": "5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.7990185,
+                 35.2263714
+             ]
+         },
+         "properties":
+         {
+             "name": "Wheres My Walk",
+             "location.address1": "",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28205",
+             "id": "wheres-my-walk-charlotte",
+             "display_phone": "(704) 995-0626",
+             "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/3mE8e46nmpo6eIUVgW_1eA/o.jpg",
+             "url": "https://www.yelp.com/biz/wheres-my-walk-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "8",
+             "rating": "5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.76969,
+                 35.17615
+             ]
+         },
+         "properties":
+         {
+             "name": "Ruff Ruff Resort",
+             "location.address1": "5815 Charing Pl",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28211",
+             "id": "ruff-ruff-resort-charlotte",
+             "display_phone": "(704) 366-7392",
+             "image_url": "",
+             "url": "https://www.yelp.com/biz/ruff-ruff-resort-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "1",
+             "rating": "5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.7421188,
+                 35.1742592
+             ]
+         },
+         "properties":
+         {
+             "name": "Heavy Petting Pet Sitting",
+             "location.address1": "7404 Redfern Ct",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28211",
+             "id": "heavy-petting-pet-sitting-charlotte-2",
+             "display_phone": "(704) 651-9098",
+             "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/kabJRXB3OhX-4GMdm5FyMg/o.jpg",
+             "url": "https://www.yelp.com/biz/heavy-petting-pet-sitting-charlotte-2?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "1",
+             "rating": "5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.7955321,
+                 35.1989475
+             ]
+         },
+         "properties":
+         {
+             "name": "Monroe Road Animal Hospital",
+             "location.address1": "3736 Monroe Rd",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28205",
+             "id": "monroe-road-animal-hospital-charlotte",
+             "display_phone": "(704) 333-3336",
+             "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/pA3-0fkjY_TGqXdwgfgtog/o.jpg",
+             "url": "https://www.yelp.com/biz/monroe-road-animal-hospital-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "21",
+             "rating": "4"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.794311,
+                 35.197731
+             ]
+         },
+         "properties":
+         {
+             "name": "Animal Medical Hospital",
+             "location.address1": "3832 Monroe Rd",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28205",
+             "id": "animal-medical-hospital-charlotte",
+             "display_phone": "(704) 334-4684",
+             "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/K-58wLi3eUyXDdRxBdhlqA/o.jpg",
+             "url": "https://www.yelp.com/biz/animal-medical-hospital-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "63",
+             "rating": "3.5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.7453079223633,
+                 35.1887474060059
+             ]
+         },
+         "properties":
+         {
+             "name": "All About Animals",
+             "location.address1": "",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28212",
+             "id": "all-about-animals-charlotte",
+             "display_phone": "(704) 712-8092",
+             "image_url": "",
+             "url": "https://www.yelp.com/biz/all-about-animals-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "1",
+             "rating": "3"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.806655992139,
+                 35.2012647283981
+             ]
+         },
+         "properties":
+         {
+             "name": "Pawsitive Pet Sitting",
+             "location.address1": "300 Heflin St",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28205",
+             "id": "pawsitive-pet-sitting-charlotte",
+             "display_phone": "(704) 747-6906",
+             "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/riYcLtVsWgaQudu7xXgRCg/o.jpg",
+             "url": "https://www.yelp.com/biz/pawsitive-pet-sitting-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "2",
+             "rating": "5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.7595672607422,
+                 35.2016181945801
+             ]
+         },
+         "properties":
+         {
+             "name": "Charlotte Veterinary Clinic PA",
+             "location.address1": "5220 Albemarle Rd",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28212",
+             "id": "charlotte-veterinary-clinic-pa-charlotte",
+             "display_phone": "(704) 537-2272",
+             "image_url": "",
+             "url": "https://www.yelp.com/biz/charlotte-veterinary-clinic-pa-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "5",
+             "rating": "4"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.8819885,
+                 35.2413597
+             ]
+         },
+         "properties":
+         {
+             "name": "K8's K-9 Club",
+             "location.address1": "3133 Mathis Dr",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28208",
+             "id": "k8s-k-9-club-charlotte",
+             "display_phone": "(607) 768-4050",
+             "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ooza11z5pm_h_OvCHcuV6Q/o.jpg",
+             "url": "https://www.yelp.com/biz/k8s-k-9-club-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "5",
+             "rating": "5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.8882599,
+                 35.2245712
+             ]
+         },
+         "properties":
+         {
+             "name": "Parker Veterinary Hospital PA",
+             "location.address1": "2820 Wilkinson Blvd",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28208",
+             "id": "parker-veterinary-hospital-pa-charlotte",
+             "display_phone": "(704) 399-8304",
+             "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/b5Sh6Pm3dE9xt8BUqIIwtA/o.jpg",
+             "url": "https://www.yelp.com/biz/parker-veterinary-hospital-pa-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "5",
+             "rating": "5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.8581161499023,
+                 35.2085075378418
+             ]
+         },
+         "properties":
+         {
+             "name": "South End Pet Sitting",
+             "location.address1": "",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28203",
+             "id": "south-end-pet-sitting-charlotte-2",
+             "display_phone": "(704) 305-7881",
+             "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/qlwd_GKuzILP5nZ_61IUSQ/o.jpg",
+             "url": "https://www.yelp.com/biz/south-end-pet-sitting-charlotte-2?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "7",
+             "rating": "4.5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.850692,
+                 35.205959
+             ]
+         },
+         "properties":
+         {
+             "name": "Dilworth Animal Hospital",
+             "location.address1": "814 East Blvd",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28203",
+             "id": "dilworth-animal-hospital-charlotte",
+             "display_phone": "(704) 808-7387",
+             "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/XI3ppt0Nte9H7pErJlO2Jg/o.jpg",
+             "url": "https://www.yelp.com/biz/dilworth-animal-hospital-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "47",
+             "rating": "5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.81282,
+                 35.21906
+             ]
+         },
+         "properties":
+         {
+             "name": "Commonwealth Animal Hospital",
+             "location.address1": "1909 Commonwealth Ave",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28205",
+             "id": "commonwealth-animal-hospital-charlotte",
+             "display_phone": "(704) 370-0767",
+             "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/jxuHzyspmAVg9BvYQ-86xg/o.jpg",
+             "url": "https://www.yelp.com/biz/commonwealth-animal-hospital-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "41",
+             "rating": "3.5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.81959,
+                 35.22179
+             ]
+         },
+         "properties":
+         {
+             "name": "Feline Fabulous",
+             "location.address1": "1045 Central Ave",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28204",
+             "id": "feline-fabulous-charlotte",
+             "display_phone": "(704) 716-2287",
+             "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/bHQwvaTsSb1mvfgHD9P3rw/o.jpg",
+             "url": "https://www.yelp.com/biz/feline-fabulous-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "25",
+             "rating": "4.5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.81496,
+                 35.219193
+             ]
+         },
+         "properties":
+         {
+             "name": "The Dog Salon",
+             "location.address1": "1318 Central Ave",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28205",
+             "id": "the-dog-salon-charlotte",
+             "display_phone": "(704) 248-0991",
+             "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/dKlLbkNa3VqKcbDLWkowWw/o.jpg",
+             "url": "https://www.yelp.com/biz/the-dog-salon-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "67",
+             "rating": "4"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.8140915693371,
+                 35.2527513463226
+             ]
+         },
+         "properties":
+         {
+             "name": "Spay Neuter Charlotte Clinic",
+             "location.address1": "224 W 32nd St",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28206",
+             "id": "spay-neuter-charlotte-clinic-charlotte",
+             "display_phone": "(704) 970-2711",
+             "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/x1flG8srX1CL0q2Olfln_w/o.jpg",
+             "url": "https://www.yelp.com/biz/spay-neuter-charlotte-clinic-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "40",
+             "rating": "4"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.8679058,
+                 35.2024554
+             ]
+         },
+         "properties":
+         {
+             "name": "Creature Comforts of Charlotte Pet Sitting",
+             "location.address1": "131 Poindexter Dr",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28203",
+             "id": "creature-comforts-of-charlotte-pet-sitting-charlotte-3",
+             "display_phone": "(704) 960-9751",
+             "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/HPWC3q85IjpQ02wgPeySkA/o.jpg",
+             "url": "https://www.yelp.com/biz/creature-comforts-of-charlotte-pet-sitting-charlotte-3?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "20",
+             "rating": "4.5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.871826171875,
+                 35.1998023986816
+             ]
+         },
+         "properties":
+         {
+             "name": "Charlotte Dog Wizard",
+             "location.address1": "216 Foster Ave",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28203",
+             "id": "charlotte-dog-wizard-charlotte",
+             "display_phone": "(704) 724-0837",
+             "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/6cSOFyevujX2PAWcxxyucA/o.jpg",
+             "url": "https://www.yelp.com/biz/charlotte-dog-wizard-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "8",
+             "rating": "3.5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.8953426894409,
+                 35.079478763584
+             ]
+         },
+         "properties":
+         {
+             "name": "A Place To Stay - Dog Sitting",
+             "location.address1": "",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28134",
+             "id": "a-place-to-stay-dog-sitting-charlotte",
+             "display_phone": "(888) 995-7139",
+             "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/J1KQwk4tf9w_YeoC08cUoQ/o.jpg",
+             "url": "https://www.yelp.com/biz/a-place-to-stay-dog-sitting-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "1",
+             "rating": "5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.8875861,
+                 35.080412
+             ]
+         },
+         "properties":
+         {
+             "name": "Wags N Kisses Pet Sitters",
+             "location.address1": "",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28134",
+             "id": "wags-n-kisses-pet-sitters-charlotte",
+             "display_phone": "(980) 219-1393",
+             "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/2noo7hhf2EsASSXKvow-UA/o.jpg",
+             "url": "https://www.yelp.com/biz/wags-n-kisses-pet-sitters-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "1",
+             "rating": "5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.703315,
+                 35.117485
+             ]
+         },
+         "properties":
+         {
+             "name": "Animal Care Hospital Of Matthews",
+             "location.address1": "1216 Matthews Mint Hill Rd",
+             "location.city": "Matthews",
+             "location.state": "NC",
+             "location.zip_code": "28105",
+             "id": "animal-care-hospital-of-matthews-matthews",
+             "display_phone": "(704) 847-3647",
+             "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/guz_g3s-Mek_iczYJCe3vg/o.jpg",
+             "url": "https://www.yelp.com/biz/animal-care-hospital-of-matthews-matthews?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "3",
+             "rating": "4.5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.72033,
+                 35.11815
+             ]
+         },
+         "properties":
+         {
+             "name": "Pet Sitting By Pam",
+             "location.address1": "",
+             "location.city": "Matthews",
+             "location.state": "NC",
+             "location.zip_code": "",
+             "id": "pet-sitting-by-pam-matthews",
+             "display_phone": "(704) 323-0868",
+             "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/CCMf_0ptjwKk921jvF_lUw/o.jpg",
+             "url": "https://www.yelp.com/biz/pet-sitting-by-pam-matthews?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "1",
+             "rating": "5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.694648,
+                 35.11808
+             ]
+         },
+         "properties":
+         {
+             "name": "Neighborhood Feed and Tack",
+             "location.address1": "1900 Moore Rd",
+             "location.city": "Matthews",
+             "location.state": "NC",
+             "location.zip_code": "28105",
+             "id": "neighborhood-feed-and-tack-matthews-3",
+             "display_phone": "(704) 847-5324",
+             "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/oQXzogqmb_KRmyIsdD-pYw/o.jpg",
+             "url": "https://www.yelp.com/biz/neighborhood-feed-and-tack-matthews-3?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "12",
+             "rating": "5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.6832656860352,
+                 35.0667724609375
+             ]
+         },
+         "properties":
+         {
+             "name": "Buddy's Bed and Biscuit",
+             "location.address1": "4209 Nagle Dr",
+             "location.city": "Indian Trail",
+             "location.state": "NC",
+             "location.zip_code": "28079",
+             "id": "buddys-bed-and-biscuit-indian-trail",
+             "display_phone": "(704) 977-5197",
+             "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/AGjxFp_Bk87AuLevFC-tyg/o.jpg",
+             "url": "https://www.yelp.com/biz/buddys-bed-and-biscuit-indian-trail?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "3",
+             "rating": "3.5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.71366,
+                 35.11984
+             ]
+         },
+         "properties":
+         {
+             "name": "Girls Best Friend Pet Sitting Service",
+             "location.address1": "",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28105",
+             "id": "girls-best-friend-pet-sitting-service-charlotte",
+             "display_phone": "(401) 339-6738",
+             "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/q1H28ikkuBC8oNqSAQ2yWw/o.jpg",
+             "url": "https://www.yelp.com/biz/girls-best-friend-pet-sitting-service-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "1",
+             "rating": "5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.613395690918,
+                 35.0489768981934
+             ]
+         },
+         "properties":
+         {
+             "name": "Better Dog",
+             "location.address1": "4702 W Hwy 74",
+             "location.city": "Monroe",
+             "location.state": "NC",
+             "location.zip_code": "28110",
+             "id": "better-dog-monroe",
+             "display_phone": "(704) 291-9999",
+             "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/58Qqju-myF-ZaA2GOVjdhw/o.jpg",
+             "url": "https://www.yelp.com/biz/better-dog-monroe?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "4",
+             "rating": "3.5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.625818,
+                 35.101982
+             ]
+         },
+         "properties":
+         {
+             "name": "Bow-Wow Barber Shop & Kennel",
+             "location.address1": "6218 Indian Trl Fairview Rd",
+             "location.city": "Indian Trail",
+             "location.state": "NC",
+             "location.zip_code": "28079",
+             "id": "bow-wow-barber-shop-and-kennel-indian-trail-2",
+             "display_phone": "(704) 882-8336",
+             "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/0cfGPJ3xyG4AUkSfHT-a4A/o.jpg",
+             "url": "https://www.yelp.com/biz/bow-wow-barber-shop-and-kennel-indian-trail-2?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "3",
+             "rating": "5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.71366,
+                 35.11984
+             ]
+         },
+         "properties":
+         {
+             "name": "Oh My Paw, LLC",
+             "location.address1": "",
+             "location.city": "Charlotte",
+             "location.state": "NC",
+             "location.zip_code": "28105",
+             "id": "oh-my-paw-llc-charlotte",
+             "display_phone": "(909) 816-8230",
+             "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/lW975kldMn8oiJIvthxV6g/o.jpg",
+             "url": "https://www.yelp.com/biz/oh-my-paw-llc-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "1",
+             "rating": "5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.723763,
+                 35.116356
+             ]
+         },
+         "properties":
+         {
+             "name": "Plantation Animal Clinic",
+             "location.address1": "135 W John St",
+             "location.city": "Matthews",
+             "location.state": "NC",
+             "location.zip_code": "28105",
+             "id": "plantation-animal-clinic-matthews-2",
+             "display_phone": "(704) 841-2225",
+             "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/pEaH304J0A5PJAuM4Qhunw/o.jpg",
+             "url": "https://www.yelp.com/biz/plantation-animal-clinic-matthews-2?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "5",
+             "rating": "5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.65417,
+                 35.08101
+             ]
+         },
+         "properties":
+         {
+             "name": "Love and Kisses Pet Sitting",
+             "location.address1": "",
+             "location.city": "Indian Trail",
+             "location.state": "NC",
+             "location.zip_code": "28079",
+             "id": "love-and-kisses-pet-sitting-indian-trail-2",
+             "display_phone": "(704) 763-9857",
+             "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/-y2wsjJ9-sTym44Py-u3Xg/o.jpg",
+             "url": "https://www.yelp.com/biz/love-and-kisses-pet-sitting-indian-trail-2?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "2",
+             "rating": "5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.8955001,
+                 35.4727001
+             ]
+         },
+         "properties":
+         {
+             "name": "A Loving Leash",
+             "location.address1": "20515 Harbor View Dr",
+             "location.city": "Cornelius",
+             "location.state": "NC",
+             "location.zip_code": "28031",
+             "id": "a-loving-leash-cornelius",
+             "display_phone": "(704) 995-4257",
+             "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/fJB0nFyzVfuSKqWVUBDCog/o.jpg",
+             "url": "https://www.yelp.com/biz/a-loving-leash-cornelius?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "3",
+             "rating": "5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.84279,
+                 35.43185
+             ]
+         },
+         "properties":
+         {
+             "name": "The Doggie Barber",
+             "location.address1": "16022 Old Statesville Rd",
+             "location.city": "Huntersville",
+             "location.state": "NC",
+             "location.zip_code": "28078",
+             "id": "the-doggie-barber-huntersville",
+             "display_phone": "(704) 948-4040",
+             "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/k6_2NkKE3JXWlXyWaLzkmg/o.jpg",
+             "url": "https://www.yelp.com/biz/the-doggie-barber-huntersville?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "8",
+             "rating": "5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.889895,
+                 35.4684788
+             ]
+         },
+         "properties":
+         {
+             "name": "Animal Hospital of Cornelius",
+             "location.address1": "18726 W Catawba Ave",
+             "location.city": "Cornelius",
+             "location.state": "NC",
+             "location.zip_code": "28031",
+             "id": "animal-hospital-of-cornelius-cornelius",
+             "display_phone": "(704) 892-1585",
+             "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ncS23OfRWZenbvUcmxUZeQ/o.jpg",
+             "url": "https://www.yelp.com/biz/animal-hospital-of-cornelius-cornelius?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "5",
+             "rating": "5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.8736419677734,
+                 35.4720726013184
+             ]
+         },
+         "properties":
+         {
+             "name": "Purrfect Paws",
+             "location.address1": "18920 Statesville Rd",
+             "location.city": "Cornelius",
+             "location.state": "NC",
+             "location.zip_code": "28031",
+             "id": "purrfect-paws-cornelius",
+             "display_phone": "(704) 896-6770",
+             "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/j1XdrctlcwKFBQpyy1pmNQ/o.jpg",
+             "url": "https://www.yelp.com/biz/purrfect-paws-cornelius?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "1",
+             "rating": "5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.860149,
+                 35.443109
+             ]
+         },
+         "properties":
+         {
+             "name": "Carolinas Veterinary Care Clinic",
+             "location.address1": "10110 Northcross Center Ct",
+             "location.city": "Huntersville",
+             "location.state": "NC",
+             "location.zip_code": "28078",
+             "id": "carolinas-veterinary-care-clinic-huntersville-2",
+             "display_phone": "(704) 439-0600",
+             "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/qpx1Ph48wHkbdbxZtbEsVA/o.jpg",
+             "url": "https://www.yelp.com/biz/carolinas-veterinary-care-clinic-huntersville-2?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "12",
+             "rating": "3"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.8737411499023,
+                 35.4750633239746
+             ]
+         },
+         "properties":
+         {
+             "name": "North Mecklenburg Animal Hospital",
+             "location.address1": "19126 Statesville Rd",
+             "location.city": "Cornelius",
+             "location.state": "NC",
+             "location.zip_code": "28031",
+             "id": "north-mecklenburg-animal-hospital-cornelius",
+             "display_phone": "(704) 892-0207",
+             "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/kGyP4rB1mvMjcHhR9O36Tw/o.jpg",
+             "url": "https://www.yelp.com/biz/north-mecklenburg-animal-hospital-cornelius?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "18",
+             "rating": "5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.843751622229,
+                 35.411288604245
+             ]
+         },
+         "properties":
+         {
+             "name": "Carolina Canine Training",
+             "location.address1": "",
+             "location.city": "Huntersville",
+             "location.state": "NC",
+             "location.zip_code": "28078",
+             "id": "carolina-canine-training-huntersville",
+             "display_phone": "(704) 724-2032",
+             "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Q6oqZLUc4CV8tnWT0gRhqQ/o.jpg",
+             "url": "https://www.yelp.com/biz/carolina-canine-training-huntersville?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "1",
+             "rating": "5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.8504775,
+                 35.4105761
+             ]
+         },
+         "properties":
+         {
+             "name": "Blue Chip Pet Care",
+             "location.address1": "",
+             "location.city": "Huntersville",
+             "location.state": "NC",
+             "location.zip_code": "28078",
+             "id": "blue-chip-pet-care-huntersville",
+             "display_phone": "(704) 996-5015",
+             "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/1WSDg0ZeQ69MyFowrsnb_w/o.jpg",
+             "url": "https://www.yelp.com/biz/blue-chip-pet-care-huntersville?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "1",
+             "rating": "5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.8568147632742,
+                 35.4800154230742
+             ]
+         },
+         "properties":
+         {
+             "name": "Tazzy & Boo",
+             "location.address1": "19921 Zion Ave",
+             "location.city": "Cornelius",
+             "location.state": "NC",
+             "location.zip_code": "28031",
+             "id": "tazzy-and-boo-cornelius-2",
+             "display_phone": "(704) 897-7269",
+             "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/_g3ByVLpHr8--ek2jNzyTA/o.jpg",
+             "url": "https://www.yelp.com/biz/tazzy-and-boo-cornelius-2?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "6",
+             "rating": "4"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.8564758300781,
+                 35.4173469543457
+             ]
+         },
+         "properties":
+         {
+             "name": "Huntersville Animal Care Hospital PA",
+             "location.address1": "14899 Statesville Rd",
+             "location.city": "Huntersville",
+             "location.state": "NC",
+             "location.zip_code": "28078",
+             "id": "huntersville-animal-care-hospital-pa-huntersville",
+             "display_phone": "(704) 875-0974",
+             "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/SLNu2KlkSz9Wdlj3uR7kUQ/o.jpg",
+             "url": "https://www.yelp.com/biz/huntersville-animal-care-hospital-pa-huntersville?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "3",
+             "rating": "2"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.84924,
+                 35.49786
+             ]
+         },
+         "properties":
+         {
+             "name": "FetchSitandStay",
+             "location.address1": "",
+             "location.city": "Davidson",
+             "location.state": "NC",
+             "location.zip_code": "28035",
+             "id": "fetchsitandstay-davidson",
+             "display_phone": "(704) 497-1301",
+             "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/WIKYVs4Wuty9XZGHKUSy2g/o.jpg",
+             "url": "https://www.yelp.com/biz/fetchsitandstay-davidson?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "1",
+             "rating": "5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.883491,
+                 35.486663
+             ]
+         },
+         "properties":
+         {
+             "name": "Lake Tails Pet Sitting Services",
+             "location.address1": "21330 Harken Dr",
+             "location.city": "Cornelius",
+             "location.state": "NC",
+             "location.zip_code": "28031",
+             "id": "lake-tails-pet-sitting-services-cornelius-2",
+             "display_phone": "(704) 775-3727",
+             "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/vT3ucj36TOOV7u_wmSNmaA/o.jpg",
+             "url": "https://www.yelp.com/biz/lake-tails-pet-sitting-services-cornelius-2?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "1",
+             "rating": "5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.8428573608398,
+                 35.410400390625
+             ]
+         },
+         "properties":
+         {
+             "name": "Paws & Pals Pet Sitting and Dog Walking",
+             "location.address1": "",
+             "location.city": "Huntersville",
+             "location.state": "NC",
+             "location.zip_code": "",
+             "id": "paws-and-pals-pet-sitting-and-dog-walking-huntersville",
+             "display_phone": "(704) 467-3757",
+             "image_url": "",
+             "url": "https://www.yelp.com/biz/paws-and-pals-pet-sitting-and-dog-walking-huntersville?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "1",
+             "rating": "5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.8444442749023,
+                 35.569896697998
+             ]
+         },
+         "properties":
+         {
+             "name": "Pampered Pets Inn",
+             "location.address1": "2993 Charlotte Hwy 21",
+             "location.city": "Mooresville",
+             "location.state": "NC",
+             "location.zip_code": "28117",
+             "id": "pampered-pets-inn-mooresville",
+             "display_phone": "(704) 663-3733",
+             "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/51KHgJ6oDws_dBxfdvQjiA/o.jpg",
+             "url": "https://www.yelp.com/biz/pampered-pets-inn-mooresville?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "6",
+             "rating": "4"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.996909,
+                 35.484165
+             ]
+         },
+         "properties":
+         {
+             "name": "Lake Norman Puppy Planet",
+             "location.address1": "896 Dove Ct",
+             "location.city": "Denver",
+             "location.state": "NC",
+             "location.zip_code": "28037",
+             "id": "lake-norman-puppy-planet-denver",
+             "display_phone": "(704) 966-0262",
+             "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Vra0MfUMiLxCC37bN4QpqA/o.jpg",
+             "url": "https://www.yelp.com/biz/lake-norman-puppy-planet-denver?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "1",
+             "rating": "5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.9072114,
+                 35.5681626
+             ]
+         },
+         "properties":
+         {
+             "name": "Classy Critters",
+             "location.address1": "1184 Brawley School Rd",
+             "location.city": "Mooresville",
+             "location.state": "NC",
+             "location.zip_code": "28117",
+             "id": "classy-critters-mooresville",
+             "display_phone": "(704) 663-0055",
+             "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/9iATxBbXnVZh_5_C7hVRTw/o.jpg",
+             "url": "https://www.yelp.com/biz/classy-critters-mooresville?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "3",
+             "rating": "5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.8857750672363,
+                 35.5814392192188
+             ]
+         },
+         "properties":
+         {
+             "name": "Barks & Rec Boarding",
+             "location.address1": "115 Thompson Farm Rd",
+             "location.city": "Mooresville",
+             "location.state": "NC",
+             "location.zip_code": "28117",
+             "id": "barks-and-rec-boarding-mooresville",
+             "display_phone": "(704) 662-3477",
+             "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/tFXkkSyCjEHjZiNG6ymmDw/o.jpg",
+             "url": "https://www.yelp.com/biz/barks-and-rec-boarding-mooresville?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "3",
+             "rating": "5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.8841400146484,
+                 35.4811515808105
+             ]
+         },
+         "properties":
+         {
+             "name": "Impeccable Paws",
+             "location.address1": "19930 W Catawba Ave",
+             "location.city": "Cornelius",
+             "location.state": "NC",
+             "location.zip_code": "28031",
+             "id": "impeccable-paws-cornelius",
+             "display_phone": "(704) 892-6330",
+             "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/FOIjtFgIt5t8TcBW4H1C4g/o.jpg",
+             "url": "https://www.yelp.com/biz/impeccable-paws-cornelius?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "24",
+             "rating": "3"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.8763199,
+                 35.4874687
+             ]
+         },
+         "properties":
+         {
+             "name": "Bone-ified Dog",
+             "location.address1": "20901 Torrence Chapel Rd",
+             "location.city": "Cornelius",
+             "location.state": "NC",
+             "location.zip_code": "28031",
+             "id": "bone-ified-dog-cornelius",
+             "display_phone": "(704) 987-7770",
+             "image_url": "",
+             "url": "https://www.yelp.com/biz/bone-ified-dog-cornelius?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "1",
+             "rating": "1"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.8735504,
+                 35.4715309
+             ]
+         },
+         "properties":
+         {
+             "name": "Lake Norman Pet Grooming",
+             "location.address1": "18900 Statesville Rd",
+             "location.city": "Cornelius",
+             "location.state": "NC",
+             "location.zip_code": "28031",
+             "id": "lake-norman-pet-grooming-cornelius",
+             "display_phone": "(704) 895-0750",
+             "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/NlJeAnj6YishkXhubBaCuw/o.jpg",
+             "url": "https://www.yelp.com/biz/lake-norman-pet-grooming-cornelius?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "7",
+             "rating": "4.5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.8949,
+                 35.47317
+             ]
+         },
+         "properties":
+         {
+             "name": "Lakeside Sitters",
+             "location.address1": "",
+             "location.city": "Cornelius",
+             "location.state": "NC",
+             "location.zip_code": "28031",
+             "id": "lakeside-sitters-cornelius",
+             "display_phone": "(704) 895-0540",
+             "image_url": "",
+             "url": "https://www.yelp.com/biz/lakeside-sitters-cornelius?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "1",
+             "rating": "5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.88942,
+                 35.47562
+             ]
+         },
+         "properties":
+         {
+             "name": "PetSmart",
+             "location.address1": "8301 Magnolia Estates Dr Unit",
+             "location.city": "Cornelius",
+             "location.state": "NC",
+             "location.zip_code": "28031",
+             "id": "petsmart-cornelius",
+             "display_phone": "(704) 765-3048",
+             "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/1ujsQ2FamvUVGX4KrpKXzA/o.jpg",
+             "url": "https://www.yelp.com/biz/petsmart-cornelius?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "7",
+             "rating": "2.5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.8681945800781,
+                 35.5936660766602
+             ]
+         },
+         "properties":
+         {
+             "name": "A Dogs Life",
+             "location.address1": "",
+             "location.city": "Mooresville",
+             "location.state": "NC",
+             "location.zip_code": "28117",
+             "id": "a-dogs-life-mooresville-3",
+             "display_phone": "(760) 815-5960",
+             "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/j-ZZmCRrcMyDYLOvIIRJgw/o.jpg",
+             "url": "https://www.yelp.com/biz/a-dogs-life-mooresville-3?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "4",
+             "rating": "5"
+         }
+     },
+     {
+         "type": "Feature",
+         "geometry":
+         {
+             "type": "Point",
+             "coordinates": [-80.8495559692383,
+                 35.5027351379395
+             ]
+         },
+         "properties":
+         {
+             "name": "Totalbond Veterinary Hospital at Davidson",
+             "location.address1": "260 Griffith St",
+             "location.city": "Davidson",
+             "location.state": "NC",
+             "location.zip_code": "28036",
+             "id": "totalbond-veterinary-hospital-at-davidson-davidson",
+             "display_phone": "(704) 892-1992",
+             "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/y3A3xsrm9HIL9eTDaKMd5w/o.jpg",
+             "url": "https://www.yelp.com/biz/totalbond-veterinary-hospital-at-davidson-davidson?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+             "review_count": "1",
+             "rating": "5"
+         }
+     }
+     ]

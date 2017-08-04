@@ -1,0 +1,9 @@
+Sample mLab export to csv cmd: 
+mongoexport -h ds129023.mlab.com:29023 -d waggsworld -c hospitals -u webuser -p webuser -o hospitals.csv --csv -f lon,lat,name,location.address1,location.city,locatio
+n.state,location.zip_code,id,display_phone,image_url,url,review_count,rating
+
+Convert csv to GeoJSON:
+http://csv.togeojson.com/
+
+Sample mLab import GeoJSON cmd: 
+mongoimport -h ds129023.mlab.com:29023 -d waggsworld -c parks -u <user> -p <password> --file parks.geojson --jsonArray

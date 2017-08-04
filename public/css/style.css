@@ -590,3 +590,8 @@ body {
 #contact #form_contact .contact_us:hover {
     border-radius: 5px;
 }
+
+.leaflet-container {
+    height: 600px;
+    width: 100%;
+}

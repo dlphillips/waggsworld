@@ -1,0 +1,2003 @@
+[
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.94272,
+          35.12621
+        ]
+      },
+      "properties": {
+        "name": "Steele Creek Animal Hospital",
+        "location.address1": "9729 S Tryon St",
+        "location.city": "Charlotte",
+        "location.state": "NC",
+        "location.zip_code": "28273",
+        "id": "steele-creek-animal-hospital-charlotte",
+        "display_phone": "(704) 588-4400",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Q0LOqwTgvoI0jUREV5lmMg/o.jpg",
+        "url": "https://www.yelp.com/biz/steele-creek-animal-hospital-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "11",
+        "rating": "3.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.94198,
+          35.1325
+        ]
+      },
+      "properties": {
+        "name": "Carolina Veterinary Specialists",
+        "location.address1": "2225 Township Rd",
+        "location.city": "Charlotte",
+        "location.state": "NC",
+        "location.zip_code": "28273",
+        "id": "carolina-veterinary-specialists-charlotte",
+        "display_phone": "(704) 504-9608",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/SABnjVjyhPn3DNnIZ7gVrw/o.jpg",
+        "url": "https://www.yelp.com/biz/carolina-veterinary-specialists-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "27",
+        "rating": "2.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8646618,
+          35.2023634
+        ]
+      },
+      "properties": {
+        "name": "Long Animal Hospital",
+        "location.address1": "2523 South Blvd",
+        "location.city": "Charlotte",
+        "location.state": "NC",
+        "location.zip_code": "28203",
+        "id": "long-animal-hospital-charlotte-3",
+        "display_phone": "(704) 523-2996",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/WN_MUEwy-dNFWTIak6gO-g/o.jpg",
+        "url": "https://www.yelp.com/biz/long-animal-hospital-charlotte-3?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "84",
+        "rating": "3.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.99244,
+          35.05315
+        ]
+      },
+      "properties": {
+        "name": "Veterinary Medical Center of Fort Mill",
+        "location.address1": "2615 Hwy 160 W",
+        "location.city": "Fort Mill",
+        "location.state": "SC",
+        "location.zip_code": "29708",
+        "id": "veterinary-medical-center-of-fort-mill-fort-mill",
+        "display_phone": "(803) 396-9130",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/q9FQVHOwQmaAxwVk6mZC2g/o.jpg",
+        "url": "https://www.yelp.com/biz/veterinary-medical-center-of-fort-mill-fort-mill?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "36",
+        "rating": "4.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.850692,
+          35.205959
+        ]
+      },
+      "properties": {
+        "name": "Dilworth Animal Hospital",
+        "location.address1": "814 East Blvd",
+        "location.city": "Charlotte",
+        "location.state": "NC",
+        "location.zip_code": "28203",
+        "id": "dilworth-animal-hospital-charlotte",
+        "display_phone": "(704) 808-7387",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/XI3ppt0Nte9H7pErJlO2Jg/o.jpg",
+        "url": "https://www.yelp.com/biz/dilworth-animal-hospital-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "47",
+        "rating": "5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.95067,
+          35.12232
+        ]
+      },
+      "properties": {
+        "name": "The Carolinas Animal Hospital & Dental Clinic P A",
+        "location.address1": "13331 York Center Dr",
+        "location.city": "Charlotte",
+        "location.state": "NC",
+        "location.zip_code": "28273",
+        "id": "the-carolinas-animal-hospital-and-dental-clinic-p-a-charlotte-2",
+        "display_phone": "(704) 588-9788",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/EY0LEZFTRmx2hUC4rjYLlw/o.jpg",
+        "url": "https://www.yelp.com/biz/the-carolinas-animal-hospital-and-dental-clinic-p-a-charlotte-2?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "13",
+        "rating": "3.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.87706,
+          35.15312
+        ]
+      },
+      "properties": {
+        "name": "Archdale Animal Hospital",
+        "location.address1": "1319 Archdale Dr",
+        "location.city": "Charlotte",
+        "location.state": "NC",
+        "location.zip_code": "28217",
+        "id": "archdale-animal-hospital-charlotte",
+        "display_phone": "(704) 552-2333",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/R45PI0y8D7Ol9FafDpZXMg/o.jpg",
+        "url": "https://www.yelp.com/biz/archdale-animal-hospital-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "16",
+        "rating": "5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.794311,
+          35.197731
+        ]
+      },
+      "properties": {
+        "name": "Animal Medical Hospital",
+        "location.address1": "3832 Monroe Rd",
+        "location.city": "Charlotte",
+        "location.state": "NC",
+        "location.zip_code": "28205",
+        "id": "animal-medical-hospital-charlotte",
+        "display_phone": "(704) 334-4684",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/K-58wLi3eUyXDdRxBdhlqA/o.jpg",
+        "url": "https://www.yelp.com/biz/animal-medical-hospital-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "63",
+        "rating": "3.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9088973999023,
+          35.0632019042969
+        ]
+      },
+      "properties": {
+        "name": "Carolina Place Animal Hospital",
+        "location.address1": "8177 Regent Pkwy",
+        "location.city": "Fort Mill",
+        "location.state": "SC",
+        "location.zip_code": "29715",
+        "id": "carolina-place-animal-hospital-fort-mill",
+        "display_phone": "(803) 547-3547",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/qbKwxE7s4IejhKItDrtDTQ/o.jpg",
+        "url": "https://www.yelp.com/biz/carolina-place-animal-hospital-fort-mill?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "8",
+        "rating": "4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.86178,
+          35.04214
+        ]
+      },
+      "properties": {
+        "name": "West Ballantyne Animal Hospital",
+        "location.address1": "11926 Providence Rd W",
+        "location.city": "Charlotte",
+        "location.state": "NC",
+        "location.zip_code": "28277",
+        "id": "west-ballantyne-animal-hospital-charlotte",
+        "display_phone": "(980) 938-8136",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/wplnkSQyjPGOWwYsfOTdvw/o.jpg",
+        "url": "https://www.yelp.com/biz/west-ballantyne-animal-hospital-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "20",
+        "rating": "5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8762621879578,
+          35.1280168680862
+        ]
+      },
+      "properties": {
+        "name": "Sharon Lakes Animal Hospital",
+        "location.address1": "7619 Sharon Lakes Rd",
+        "location.city": "Charlotte",
+        "location.state": "NC",
+        "location.zip_code": "28210",
+        "id": "sharon-lakes-animal-hospital-charlotte",
+        "display_phone": "(704) 552-0647",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/u4A9UCxX5f81RE2g_H2x1Q/o.jpg",
+        "url": "https://www.yelp.com/biz/sharon-lakes-animal-hospital-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "5",
+        "rating": "5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.84922,
+          35.158729
+        ]
+      },
+      "properties": {
+        "name": "South Park Animal Hospital",
+        "location.address1": "5240 Park Rd",
+        "location.city": "Charlotte",
+        "location.state": "NC",
+        "location.zip_code": "28209",
+        "id": "south-park-animal-hospital-charlotte",
+        "display_phone": "(704) 523-3457",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/gwT7Vvdcdh9_E_zU1Q2U4w/o.jpg",
+        "url": "https://www.yelp.com/biz/south-park-animal-hospital-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "16",
+        "rating": "4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.859775,
+          35.206871
+        ]
+      },
+      "properties": {
+        "name": "South End Veterinary Clinic",
+        "location.address1": "2135 Southend Dr",
+        "location.city": "Charlotte",
+        "location.state": "NC",
+        "location.zip_code": "28203",
+        "id": "south-end-veterinary-clinic-charlotte",
+        "display_phone": "(704) 632-8012",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/DLel-oRQ2B3fOi1pGeuvVg/o.jpg",
+        "url": "https://www.yelp.com/biz/south-end-veterinary-clinic-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "15",
+        "rating": "5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7955321,
+          35.1989475
+        ]
+      },
+      "properties": {
+        "name": "Monroe Road Animal Hospital",
+        "location.address1": "3736 Monroe Rd",
+        "location.city": "Charlotte",
+        "location.state": "NC",
+        "location.zip_code": "28205",
+        "id": "monroe-road-animal-hospital-charlotte",
+        "display_phone": "(704) 333-3336",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/pA3-0fkjY_TGqXdwgfgtog/o.jpg",
+        "url": "https://www.yelp.com/biz/monroe-road-animal-hospital-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "21",
+        "rating": "4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.861386,
+          35.088968
+        ]
+      },
+      "properties": {
+        "name": "St Francis Hospital For Animals",
+        "location.address1": "10709 Kettering Dr",
+        "location.city": "Charlotte",
+        "location.state": "NC",
+        "location.zip_code": "28226",
+        "id": "st-francis-hospital-for-animals-charlotte",
+        "display_phone": "(704) 527-2030",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/G4OhzE18YDAikkn3NDwP9Q/o.jpg",
+        "url": "https://www.yelp.com/biz/st-francis-hospital-for-animals-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "21",
+        "rating": "5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.79769,
+          35.1947199
+        ]
+      },
+      "properties": {
+        "name": "Charlotte Animal Referral & Emergency",
+        "location.address1": "3726 Latrobe Dr",
+        "location.city": "Charlotte",
+        "location.state": "NC",
+        "location.zip_code": "28211",
+        "id": "charlotte-animal-referral-and-emergency-charlotte",
+        "display_phone": "(704) 457-2300",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/W34o7ZnVKl8cKgutMMy6iw/o.jpg",
+        "url": "https://www.yelp.com/biz/charlotte-animal-referral-and-emergency-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "15",
+        "rating": "4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.81282,
+          35.21906
+        ]
+      },
+      "properties": {
+        "name": "Commonwealth Animal Hospital",
+        "location.address1": "1909 Commonwealth Ave",
+        "location.city": "Charlotte",
+        "location.state": "NC",
+        "location.zip_code": "28205",
+        "id": "commonwealth-animal-hospital-charlotte",
+        "display_phone": "(704) 370-0767",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/jxuHzyspmAVg9BvYQ-86xg/o.jpg",
+        "url": "https://www.yelp.com/biz/commonwealth-animal-hospital-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "41",
+        "rating": "3.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.813,
+          35.0628
+        ]
+      },
+      "properties": {
+        "name": "Piper Glen Animal Hospital",
+        "location.address1": "5105 Piper Station Dr",
+        "location.city": "Charlotte",
+        "location.state": "NC",
+        "location.zip_code": "28277",
+        "id": "piper-glen-animal-hospital-charlotte",
+        "display_phone": "(704) 541-7171",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/QwsAOtsg4O3lhm9URhUTqA/o.jpg",
+        "url": "https://www.yelp.com/biz/piper-glen-animal-hospital-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "14",
+        "rating": "4.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8665919,
+          35.2105144
+        ]
+      },
+      "properties": {
+        "name": "K9 Playland",
+        "location.address1": "2139 S Tryon St",
+        "location.city": "Charlotte",
+        "location.state": "NC",
+        "location.zip_code": "28203",
+        "id": "k9-playland-charlotte",
+        "display_phone": "(704) 525-9778",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/yZPmZR5YbqR3E6Of8HVSsA/o.jpg",
+        "url": "https://www.yelp.com/biz/k9-playland-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "29",
+        "rating": "4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9628788,
+          35.0614481
+        ]
+      },
+      "properties": {
+        "name": "UrgentVet Pet Clinic",
+        "location.address1": "870 Gold Hill Rd",
+        "location.city": "Fort Mill",
+        "location.state": "SC",
+        "location.zip_code": "29708",
+        "id": "urgentvet-pet-clinic-fort-mill",
+        "display_phone": "(803) 486-2550",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/aq4_w3ALT023lFyljbFyVg/o.jpg",
+        "url": "https://www.yelp.com/biz/urgentvet-pet-clinic-fort-mill?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "5",
+        "rating": "4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8129,
+          35.05427
+        ]
+      },
+      "properties": {
+        "name": "Rea Road Animal Hospital",
+        "location.address1": "8100 Williams Pond Ln",
+        "location.city": "Charlotte",
+        "location.state": "NC",
+        "location.zip_code": "28277",
+        "id": "rea-road-animal-hospital-charlotte",
+        "display_phone": "(704) 544-6313",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/SK1E8hy9ZlNwyjG0eZiv9w/o.jpg",
+        "url": "https://www.yelp.com/biz/rea-road-animal-hospital-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "20",
+        "rating": "4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8483657836914,
+          35.0886192321777
+        ]
+      },
+      "properties": {
+        "name": "Atrium Animal Hospital",
+        "location.address1": "6520 McMahan Dr",
+        "location.city": "Charlotte",
+        "location.state": "NC",
+        "location.zip_code": "28226",
+        "id": "atrium-animal-hospital-charlotte",
+        "display_phone": "(704) 542-2000",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/7Jj27oAEshnxxo25N2ducg/o.jpg",
+        "url": "https://www.yelp.com/biz/atrium-animal-hospital-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "21",
+        "rating": "4.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.854787,
+          35.007661
+        ]
+      },
+      "properties": {
+        "name": "Curtsinger Animal Hospital",
+        "location.address1": "9955 Charlotte Hwy",
+        "location.city": "Indian Land",
+        "location.state": "SC",
+        "location.zip_code": "29707",
+        "id": "curtsinger-animal-hospital-indian-land",
+        "display_phone": "(803) 548-8802",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/mdMSSiDjr2-YAirA1U-8QA/o.jpg",
+        "url": "https://www.yelp.com/biz/curtsinger-animal-hospital-indian-land?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "11",
+        "rating": "4.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7623251,
+          35.0237847
+        ]
+      },
+      "properties": {
+        "name": "Weddington Animal Hospital",
+        "location.address1": "13667 Providence Rd",
+        "location.city": "Matthews",
+        "location.state": "NC",
+        "location.zip_code": "28104",
+        "id": "weddington-animal-hospital-matthews",
+        "display_phone": "(704) 847-8466",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/_o0Acsu6Nxn5QW-mJD7mHA/o.jpg",
+        "url": "https://www.yelp.com/biz/weddington-animal-hospital-matthews?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "4",
+        "rating": "4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8637608761632,
+          35.0940855611932
+        ]
+      },
+      "properties": {
+        "name": "Carolinas Veterinary Medical Hospital",
+        "location.address1": "10330 Feld Farm Rd",
+        "location.city": "Charlotte",
+        "location.state": "NC",
+        "location.zip_code": "28210",
+        "id": "carolinas-veterinary-medical-hospital-charlotte",
+        "display_phone": "(704) 752-7227",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/o1dOIcH04shhofVDajczrQ/o.jpg",
+        "url": "https://www.yelp.com/biz/carolinas-veterinary-medical-hospital-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "8",
+        "rating": "3.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.732,
+          35.12767
+        ]
+      },
+      "properties": {
+        "name": "Miller Animal Hospital",
+        "location.address1": "10638 Monroe Rd",
+        "location.city": "Matthews",
+        "location.state": "NC",
+        "location.zip_code": "28105",
+        "id": "miller-animal-hospital-matthews",
+        "display_phone": "(704) 847-0224",
+        "image_url": "",
+        "url": "https://www.yelp.com/biz/miller-animal-hospital-matthews?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "13",
+        "rating": "4.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.88664,
+          35.08284
+        ]
+      },
+      "properties": {
+        "name": "Friendship Animal Hospital",
+        "location.address1": "304 S Polk St",
+        "location.city": "Pineville",
+        "location.state": "NC",
+        "location.zip_code": "28134",
+        "id": "friendship-animal-hospital-pineville",
+        "display_phone": "(704) 889-7387",
+        "image_url": "",
+        "url": "https://www.yelp.com/biz/friendship-animal-hospital-pineville?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "2",
+        "rating": "5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8034965395927,
+          35.0341978427392
+        ]
+      },
+      "properties": {
+        "name": "Banfield Pet Hospital",
+        "location.address1": "9911 Rea Rd",
+        "location.city": "Charlotte",
+        "location.state": "NC",
+        "location.zip_code": "28277",
+        "id": "banfield-pet-hospital-charlotte",
+        "display_phone": "(704) 844-6676",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/GUTq_ox1igqOllwOAb7PWA/o.jpg",
+        "url": "https://www.yelp.com/biz/banfield-pet-hospital-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "2",
+        "rating": "3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8567252357706,
+          35.1170104299006
+        ]
+      },
+      "properties": {
+        "name": "Quail Hollow Veterinary Hospital",
+        "location.address1": "8408 Park Rd",
+        "location.city": "Charlotte",
+        "location.state": "NC",
+        "location.zip_code": "28210",
+        "id": "quail-hollow-veterinary-hospital-charlotte",
+        "display_phone": "(704) 278-8000",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/pOH9rInQY4xKZhSPduDlbw/o.jpg",
+        "url": "https://www.yelp.com/biz/quail-hollow-veterinary-hospital-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "11",
+        "rating": "5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8431267,
+          35.2270869
+        ]
+      },
+      "properties": {
+        "name": "The Paw Sitter",
+        "location.address1": "",
+        "location.city": "Charlotte",
+        "location.state": "NC",
+        "location.zip_code": "28105",
+        "id": "the-paw-sitter-charlotte",
+        "display_phone": "(704) 648-7157",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Wzu3YpHQB6NbpcLZIOXAGA/o.jpg",
+        "url": "https://www.yelp.com/biz/the-paw-sitter-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "12",
+        "rating": "5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7429191,
+          35.1446854
+        ]
+      },
+      "properties": {
+        "name": "Compassionate Care Veterinary Hospital of Charlotte",
+        "location.address1": "9300 Monroe Rd",
+        "location.city": "Charlotte",
+        "location.state": "NC",
+        "location.zip_code": "28270",
+        "id": "compassionate-care-veterinary-hospital-of-charlotte-charlotte-3",
+        "display_phone": "(704) 847-4796",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/-1d7rVTOqiZ7shUCJDOaaA/o.jpg",
+        "url": "https://www.yelp.com/biz/compassionate-care-veterinary-hospital-of-charlotte-charlotte-3?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "10",
+        "rating": "4.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6815872192383,
+          35.1462554931641
+        ]
+      },
+      "properties": {
+        "name": "Fullwood Animal Hospital",
+        "location.address1": "4101 Matthews Mint Hill Rd",
+        "location.city": "Matthews",
+        "location.state": "NC",
+        "location.zip_code": "28105",
+        "id": "fullwood-animal-hospital-matthews",
+        "display_phone": "(704) 545-2235",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/mAJbgUtxJVd5wFyLuY48hA/o.jpg",
+        "url": "https://www.yelp.com/biz/fullwood-animal-hospital-matthews?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "16",
+        "rating": "4.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7085029,
+          35.171981
+        ]
+      },
+      "properties": {
+        "name": "NODA Animal Hospital",
+        "location.address1": "9705 Mintworth Ave",
+        "location.city": "Charlotte",
+        "location.state": "NC",
+        "location.zip_code": "28227",
+        "id": "noda-animal-hospital-charlotte",
+        "display_phone": "(704) 375-0212",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/8koKOXbloy7wgXXp7a0lfA/o.jpg",
+        "url": "https://www.yelp.com/biz/noda-animal-hospital-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "20",
+        "rating": "4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8027877807617,
+          35.1734580993652
+        ]
+      },
+      "properties": {
+        "name": "Cotswold Animal Hospital",
+        "location.address1": "401 S Sharon Amity Rd",
+        "location.city": "Charlotte",
+        "location.state": "NC",
+        "location.zip_code": "28211",
+        "id": "cotswold-animal-hospital-charlotte",
+        "display_phone": "(704) 365-3787",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/fUtgLQoZNpiW27wmYw1FqA/o.jpg",
+        "url": "https://www.yelp.com/biz/cotswold-animal-hospital-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "8",
+        "rating": "5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.695618,
+          35.089256
+        ]
+      },
+      "properties": {
+        "name": "Carolina Veterinary Specialists",
+        "location.address1": "4099 Campus Ridge Rd",
+        "location.city": "Matthews",
+        "location.state": "NC",
+        "location.zip_code": "28104",
+        "id": "carolina-veterinary-specialists-matthews",
+        "display_phone": "(704) 815-3939",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/QxaqpghGAUQto2gPT9xHRw/o.jpg",
+        "url": "https://www.yelp.com/biz/carolina-veterinary-specialists-matthews?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "15",
+        "rating": "3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.660339,
+          35.076343
+        ]
+      },
+      "properties": {
+        "name": "Indian Trail Animal Hospital",
+        "location.address1": "160 Corporate Blvd",
+        "location.city": "Indian Trail",
+        "location.state": "NC",
+        "location.zip_code": "28079",
+        "id": "indian-trail-animal-hospital-indian-trail",
+        "display_phone": "(704) 821-7040",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/R2b7lhF_ej76yHqjq4PGlQ/o.jpg",
+        "url": "https://www.yelp.com/biz/indian-trail-animal-hospital-indian-trail?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "5",
+        "rating": "4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7012332975864,
+          35.0698989629745
+        ]
+      },
+      "properties": {
+        "name": "Pressly Animal Hospital",
+        "location.address1": "1315 Chestnut Ln",
+        "location.city": "Matthews",
+        "location.state": "NC",
+        "location.zip_code": "28104",
+        "id": "pressly-animal-hospital-matthews",
+        "display_phone": "(704) 234-0374",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/CnZRMjlCrJ2BcYSX6skWfg/o.jpg",
+        "url": "https://www.yelp.com/biz/pressly-animal-hospital-matthews?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "7",
+        "rating": "3.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6454,
+          35.1796
+        ]
+      },
+      "properties": {
+        "name": "Mint Hill Animal Hospital",
+        "location.address1": "8101 Fairview Rd",
+        "location.city": "Charlotte",
+        "location.state": "NC",
+        "location.zip_code": "28227",
+        "id": "mint-hill-animal-hospital-mint-hill-2",
+        "display_phone": "(704) 545-3422",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/x2AVxPu3dmUxiwfALGC3jA/o.jpg",
+        "url": "https://www.yelp.com/biz/mint-hill-animal-hospital-mint-hill-2?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "4",
+        "rating": "4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6552505,
+          35.1745529
+        ]
+      },
+      "properties": {
+        "name": "Sycamore Animal Clinic",
+        "location.address1": "7210 Matthews-Mint Hill Rd",
+        "location.city": "Mint Hill",
+        "location.state": "NC",
+        "location.zip_code": "28227",
+        "id": "sycamore-animal-clinic-mint-hill",
+        "display_phone": "(980) 938-0799",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/3OucPNkXq9BDxnKVyx7dxg/o.jpg",
+        "url": "https://www.yelp.com/biz/sycamore-animal-clinic-mint-hill?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "9",
+        "rating": "5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6862106,
+          35.2122917
+        ]
+      },
+      "properties": {
+        "name": "Clear Creek Animal Hospital",
+        "location.address1": "6916 Harrisburg Rd",
+        "location.city": "Charlotte",
+        "location.state": "NC",
+        "location.zip_code": "28215",
+        "id": "clear-creek-animal-hospital-charlotte",
+        "display_phone": "(704) 537-8405",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/bzJxtN65-0YshrhUN1xnDA/o.jpg",
+        "url": "https://www.yelp.com/biz/clear-creek-animal-hospital-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "6",
+        "rating": "4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7421188,
+          35.1742592
+        ]
+      },
+      "properties": {
+        "name": "Heavy Petting Pet Sitting",
+        "location.address1": "7404 Redfern Ct",
+        "location.city": "Charlotte",
+        "location.state": "NC",
+        "location.zip_code": "28211",
+        "id": "heavy-petting-pet-sitting-charlotte-2",
+        "display_phone": "(704) 651-9098",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/kabJRXB3OhX-4GMdm5FyMg/o.jpg",
+        "url": "https://www.yelp.com/biz/heavy-petting-pet-sitting-charlotte-2?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "1",
+        "rating": "5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8020293712616,
+          35.1767483536434
+        ]
+      },
+      "properties": {
+        "name": "Banfield Pet Hospital",
+        "location.address1": "206 S Sharon Amity Rd",
+        "location.city": "Charlotte",
+        "location.state": "NC",
+        "location.zip_code": "28211",
+        "id": "banfield-pet-hospital-charlotte-2",
+        "display_phone": "(704) 364-4171",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Nr6XOTo2_FtB5SZy3XtLKg/o.jpg",
+        "url": "https://www.yelp.com/biz/banfield-pet-hospital-charlotte-2?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "8",
+        "rating": "3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.703315,
+          35.117485
+        ]
+      },
+      "properties": {
+        "name": "Animal Care Hospital Of Matthews",
+        "location.address1": "1216 Matthews Mint Hill Rd",
+        "location.city": "Matthews",
+        "location.state": "NC",
+        "location.zip_code": "28105",
+        "id": "animal-care-hospital-of-matthews-matthews",
+        "display_phone": "(704) 847-3647",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/guz_g3s-Mek_iczYJCe3vg/o.jpg",
+        "url": "https://www.yelp.com/biz/animal-care-hospital-of-matthews-matthews?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "3",
+        "rating": "4.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8309637010098,
+          35.147010946701
+        ]
+      },
+      "properties": {
+        "name": "Banfield Pet Hospital",
+        "location.address1": "4735 Sharon Rd",
+        "location.city": "Charlotte",
+        "location.state": "NC",
+        "location.zip_code": "28210",
+        "id": "banfield-pet-hospital-charlotte-8",
+        "display_phone": "(704) 367-5323",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/u_hIwYizALmGC57ydzIa8w/o.jpg",
+        "url": "https://www.yelp.com/biz/banfield-pet-hospital-charlotte-8?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "2",
+        "rating": "3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.773681640625,
+          35.3228912353516
+        ]
+      },
+      "properties": {
+        "name": "Mallard Creek Animal Hospital",
+        "location.address1": "2110 Ben Craig Dr",
+        "location.city": "Charlotte",
+        "location.state": "NC",
+        "location.zip_code": "28262",
+        "id": "mallard-creek-animal-hospital-charlotte-2",
+        "display_phone": "(704) 717-7878",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Hu_x2NrLtA_N2h--TCFUPg/o.jpg",
+        "url": "https://www.yelp.com/biz/mallard-creek-animal-hospital-charlotte-2?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "12",
+        "rating": "5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8425843715668,
+          35.3767342865467
+        ]
+      },
+      "properties": {
+        "name": "Hambright Animal Hospital",
+        "location.address1": "11725 Hambright Rd",
+        "location.city": "Huntersville",
+        "location.state": "NC",
+        "location.zip_code": "28078",
+        "id": "hambright-animal-hospital-huntersville",
+        "display_phone": "(704) 912-5333",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/yESop0lfT261ZWgHwa50EA/o.jpg",
+        "url": "https://www.yelp.com/biz/hambright-animal-hospital-huntersville?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "17",
+        "rating": "4.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8152,
+          35.337265
+        ]
+      },
+      "properties": {
+        "name": "Davis Lake Animal Hospital",
+        "location.address1": "4971 David Cox Rd",
+        "location.city": "Charlotte",
+        "location.state": "NC",
+        "location.zip_code": "28269",
+        "id": "davis-lake-animal-hospital-charlotte",
+        "display_phone": "(704) 599-0405",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/pVAb35X9BxxJl21f9P1mpQ/o.jpg",
+        "url": "https://www.yelp.com/biz/davis-lake-animal-hospital-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "6",
+        "rating": "4.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.82794,
+          35.3366
+        ]
+      },
+      "properties": {
+        "name": "Harris Boulevard Veterinary Clinic",
+        "location.address1": "5710 West Wt Harris Blvd",
+        "location.city": "Charlotte",
+        "location.state": "NC",
+        "location.zip_code": "28269",
+        "id": "harris-boulevard-veterinary-clinic-charlotte",
+        "display_phone": "(980) 474-2895",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/JgZCdEzkQ8Z2I6jsoo-ZMQ/o.jpg",
+        "url": "https://www.yelp.com/biz/harris-boulevard-veterinary-clinic-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "10",
+        "rating": "4.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.86988,
+          35.43373
+        ]
+      },
+      "properties": {
+        "name": "Birkdale Animal Hospital",
+        "location.address1": "16010 Northcross Dr",
+        "location.city": "Huntersville",
+        "location.state": "NC",
+        "location.zip_code": "28078",
+        "id": "birkdale-animal-hospital-huntersville",
+        "display_phone": "(704) 655-0202",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/qVXNbQl320IDC7sAKQOn7Q/o.jpg",
+        "url": "https://www.yelp.com/biz/birkdale-animal-hospital-huntersville?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "23",
+        "rating": "5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8737411499023,
+          35.4750633239746
+        ]
+      },
+      "properties": {
+        "name": "North Mecklenburg Animal Hospital",
+        "location.address1": "19126 Statesville Rd",
+        "location.city": "Cornelius",
+        "location.state": "NC",
+        "location.zip_code": "28031",
+        "id": "north-mecklenburg-animal-hospital-cornelius",
+        "display_phone": "(704) 892-0207",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/kGyP4rB1mvMjcHhR9O36Tw/o.jpg",
+        "url": "https://www.yelp.com/biz/north-mecklenburg-animal-hospital-cornelius?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "18",
+        "rating": "5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7370283156797,
+          35.3284172551435
+        ]
+      },
+      "properties": {
+        "name": "VCA Stoney Creek Animal Hospital",
+        "location.address1": "626 W Mallard Creek Church Rd",
+        "location.city": "Charlotte",
+        "location.state": "NC",
+        "location.zip_code": "28262",
+        "id": "vca-stoney-creek-animal-hospital-charlotte",
+        "display_phone": "(704) 717-0616",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/gmMLI3bvp5UdlehcYvFJNg/o.jpg",
+        "url": "https://www.yelp.com/biz/vca-stoney-creek-animal-hospital-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "17",
+        "rating": "3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.846771,
+          35.384628
+        ]
+      },
+      "properties": {
+        "name": "Carolina Veterinary Specialists",
+        "location.address1": "12117 Statesville Rd",
+        "location.city": "Huntersville",
+        "location.state": "NC",
+        "location.zip_code": "28078",
+        "id": "carolina-veterinary-specialists-huntersville",
+        "display_phone": "(704) 949-1100",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/kS82KRUaduPcevxPPQ-8OQ/o.jpg",
+        "url": "https://www.yelp.com/biz/carolina-veterinary-specialists-huntersville?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "18",
+        "rating": "3.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6656875610352,
+          35.4103164672852
+        ]
+      },
+      "properties": {
+        "name": "Poplar Animal Hospital",
+        "location.address1": "351 George W Liles Pkwy NW",
+        "location.city": "Concord",
+        "location.state": "NC",
+        "location.zip_code": "28027",
+        "id": "poplar-animal-hospital-concord",
+        "display_phone": "(704) 795-7200",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/xEM-PxX3SVbZAHosx3BPXg/o.jpg",
+        "url": "https://www.yelp.com/biz/poplar-animal-hospital-concord?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "12",
+        "rating": "5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8140915693371,
+          35.2527513463226
+        ]
+      },
+      "properties": {
+        "name": "Spay Neuter Charlotte Clinic",
+        "location.address1": "224 W 32nd St",
+        "location.city": "Charlotte",
+        "location.state": "NC",
+        "location.zip_code": "28206",
+        "id": "spay-neuter-charlotte-clinic-charlotte",
+        "display_phone": "(704) 970-2711",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/x1flG8srX1CL0q2Olfln_w/o.jpg",
+        "url": "https://www.yelp.com/biz/spay-neuter-charlotte-clinic-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "40",
+        "rating": "4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.889895,
+          35.4684788
+        ]
+      },
+      "properties": {
+        "name": "Animal Hospital of Cornelius",
+        "location.address1": "18726 W Catawba Ave",
+        "location.city": "Cornelius",
+        "location.state": "NC",
+        "location.zip_code": "28031",
+        "id": "animal-hospital-of-cornelius-cornelius",
+        "display_phone": "(704) 892-1585",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ncS23OfRWZenbvUcmxUZeQ/o.jpg",
+        "url": "https://www.yelp.com/biz/animal-hospital-of-cornelius-cornelius?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "5",
+        "rating": "5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.73897,
+          35.31559
+        ]
+      },
+      "properties": {
+        "name": "Hight Veterinary Hospital",
+        "location.address1": "9528 N Tryon St",
+        "location.city": "Charlotte",
+        "location.state": "NC",
+        "location.zip_code": "28262",
+        "id": "hight-veterinary-hospital-charlotte",
+        "display_phone": "(704) 595-9377",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Nz0pPrG4mZB5fPwSEiWJZA/o.jpg",
+        "url": "https://www.yelp.com/biz/hight-veterinary-hospital-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "4",
+        "rating": "2.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7865600585938,
+          35.3522605895996
+        ]
+      },
+      "properties": {
+        "name": "Blue Oliver Pet Services",
+        "location.address1": "9800 Fairlea Dr",
+        "location.city": "Charlotte",
+        "location.state": "NC",
+        "location.zip_code": "28269",
+        "id": "blue-oliver-pet-services-charlotte",
+        "display_phone": "(704) 595-3382",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/tkoTQKl1gN0bqtTSV2YfFw/o.jpg",
+        "url": "https://www.yelp.com/biz/blue-oliver-pet-services-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "1",
+        "rating": "5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8429871,
+          35.4401283
+        ]
+      },
+      "properties": {
+        "name": "Lakecross Veterinary Hospital PA",
+        "location.address1": "106 Parr Dr",
+        "location.city": "Huntersville",
+        "location.state": "NC",
+        "location.zip_code": "28078",
+        "id": "lakecross-veterinary-hospital-pa-huntersville",
+        "display_phone": "(704) 948-6300",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/NZCrTxIG8uR0Hjy3v32x9Q/o.jpg",
+        "url": "https://www.yelp.com/biz/lakecross-veterinary-hospital-pa-huntersville?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "16",
+        "rating": "4.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6704779357439,
+          35.28328651172
+        ]
+      },
+      "properties": {
+        "name": "Brookdale Animal Hospital",
+        "location.address1": "13521 Plaza Rd Extension",
+        "location.city": "Charlotte",
+        "location.state": "NC",
+        "location.zip_code": "28215",
+        "id": "brookdale-animal-hospital-charlotte",
+        "display_phone": "(704) 598-1095",
+        "image_url": "",
+        "url": "https://www.yelp.com/biz/brookdale-animal-hospital-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "3",
+        "rating": "5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8378699,
+          35.2322883
+        ]
+      },
+      "properties": {
+        "name": "VetweRx - Charlotte",
+        "location.address1": "626 N Church St",
+        "location.city": "Charlotte",
+        "location.state": "NC",
+        "location.zip_code": "28202",
+        "id": "vetwerx-charlotte-charlotte",
+        "display_phone": "(704) 332-5450",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/S8wpwGpjPuowAWMXTlISPw/o.jpg",
+        "url": "https://www.yelp.com/biz/vetwerx-charlotte-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "18",
+        "rating": "5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6248016357422,
+          35.1408729553223
+        ]
+      },
+      "properties": {
+        "name": "Caring Hearts Animal Hospital",
+        "location.address1": "7850A Stevens Mill Rd",
+        "location.city": "Matthews",
+        "location.state": "NC",
+        "location.zip_code": "28104",
+        "id": "caring-hearts-animal-hospital-matthews",
+        "display_phone": "(704) 893-2799",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/m3nxKq9dp2DuD0SsUVSLlA/o.jpg",
+        "url": "https://www.yelp.com/biz/caring-hearts-animal-hospital-matthews?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "6",
+        "rating": "3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7400399,
+          35.23116
+        ]
+      },
+      "properties": {
+        "name": "Hickory Grove Animal Hospital",
+        "location.address1": "5450 N Sharon Amity Rd",
+        "location.city": "Charlotte",
+        "location.state": "NC",
+        "location.zip_code": "28215",
+        "id": "hickory-grove-animal-hospital-charlotte",
+        "display_phone": "(704) 563-5858",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Mm_wShnDT9YHKztboY8GXg/o.jpg",
+        "url": "https://www.yelp.com/biz/hickory-grove-animal-hospital-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "5",
+        "rating": "4.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.84967,
+          35.16303
+        ]
+      },
+      "properties": {
+        "name": "AAA Pet Services",
+        "location.address1": "4928 Park Rd",
+        "location.city": "Charlotte",
+        "location.state": "NC",
+        "location.zip_code": "28209",
+        "id": "aaa-pet-services-charlotte-3",
+        "display_phone": "(704) 522-0677",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/p8SSgwjBOp6ReYZ2-28uOQ/o.jpg",
+        "url": "https://www.yelp.com/biz/aaa-pet-services-charlotte-3?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "8",
+        "rating": "4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.87427,
+          35.20021
+        ]
+      },
+      "properties": {
+        "name": "Nicks Veterinary Hospital",
+        "location.address1": "3100 S Tryon St",
+        "location.city": "Charlotte",
+        "location.state": "NC",
+        "location.zip_code": "28217",
+        "id": "nicks-veterinary-hospital-charlotte",
+        "display_phone": "(704) 523-8015",
+        "image_url": "",
+        "url": "https://www.yelp.com/biz/nicks-veterinary-hospital-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "5",
+        "rating": "5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.992996,
+          35.445078
+        ]
+      },
+      "properties": {
+        "name": "East Lincoln Animal Hospital",
+        "location.address1": "7555 Nc Hwy 73 E",
+        "location.city": "Denver",
+        "location.state": "NC",
+        "location.zip_code": "28037",
+        "id": "east-lincoln-animal-hospital-denver",
+        "display_phone": "(704) 827-5300",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/nUWed8AXq019fq2PLz4vmw/o.jpg",
+        "url": "https://www.yelp.com/biz/east-lincoln-animal-hospital-denver?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "8",
+        "rating": "5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0280209034681,
+          35.2524346858263
+        ]
+      },
+      "properties": {
+        "name": "UrgentVet Pet Clinic",
+        "location.address1": "600-A Park St",
+        "location.city": "Belmont",
+        "location.state": "NC",
+        "location.zip_code": "28012",
+        "id": "urgentvet-pet-clinic-belmont",
+        "display_phone": "(704) 825-8868",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/3er_okuNvW_0sTDlrIeLYA/o.jpg",
+        "url": "https://www.yelp.com/biz/urgentvet-pet-clinic-belmont?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "10",
+        "rating": "5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0268936157227,
+          35.2640953063965
+        ]
+      },
+      "properties": {
+        "name": "Catawba Heights Animal Hospital",
+        "location.address1": "407 Pearl Beatty Dr",
+        "location.city": "Mount Holly",
+        "location.state": "NC",
+        "location.zip_code": "28120",
+        "id": "catawba-heights-animal-hospital-belmont-4",
+        "display_phone": "(704) 827-0616",
+        "image_url": "",
+        "url": "https://www.yelp.com/biz/catawba-heights-animal-hospital-belmont-4?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "2",
+        "rating": "5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.98903,
+          35.30006
+        ]
+      },
+      "properties": {
+        "name": "TotalBond Veterinary Hospital",
+        "location.address1": "11226 Mount Holly Rd",
+        "location.city": "Charlotte",
+        "location.state": "NC",
+        "location.zip_code": "28214",
+        "id": "totalbond-veterinary-hospital-charlotte-2",
+        "display_phone": "(704) 827-7422",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/OyxUf3KxkXPgxPkZxbXNzA/o.jpg",
+        "url": "https://www.yelp.com/biz/totalbond-veterinary-hospital-charlotte-2?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "8",
+        "rating": "2.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8661599,
+          35.20263
+        ]
+      },
+      "properties": {
+        "name": "Canine Cafe",
+        "location.address1": "125 Remount Rd",
+        "location.city": "Charlotte",
+        "location.state": "NC",
+        "location.zip_code": "28203",
+        "id": "canine-cafe-charlotte",
+        "display_phone": "(704) 588-3647",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/KsnE87o77EdSg8MJHB2toA/o.jpg",
+        "url": "https://www.yelp.com/biz/canine-cafe-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "42",
+        "rating": "4.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.871826171875,
+          35.1998023986816
+        ]
+      },
+      "properties": {
+        "name": "Charlotte Dog Wizard",
+        "location.address1": "216 Foster Ave",
+        "location.city": "Charlotte",
+        "location.state": "NC",
+        "location.zip_code": "28203",
+        "id": "charlotte-dog-wizard-charlotte",
+        "display_phone": "(704) 724-0837",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/6cSOFyevujX2PAWcxxyucA/o.jpg",
+        "url": "https://www.yelp.com/biz/charlotte-dog-wizard-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "8",
+        "rating": "3.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9453278,
+          35.189991
+        ]
+      },
+      "properties": {
+        "name": "Humane Society Spay & Neuter Clinic",
+        "location.address1": "8315 Byrum Dr",
+        "location.city": "Charlotte",
+        "location.state": "NC",
+        "location.zip_code": "28217",
+        "id": "humane-society-spay-and-neuter-clinic-charlotte",
+        "display_phone": "(704) 426-1053",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/_ZtpnZi9q3A1E91ceRWCCA/o.jpg",
+        "url": "https://www.yelp.com/biz/humane-society-spay-and-neuter-clinic-charlotte?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "1",
+        "rating": "4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8001022,
+          35.1755791
+        ]
+      },
+      "properties": {
+        "name": "PetSmart",
+        "location.address1": "206 S Sharon Amity Rd",
+        "location.city": "Charlotte",
+        "location.state": "NC",
+        "location.zip_code": "28211",
+        "id": "petsmart-charlotte-6",
+        "display_phone": "(704) 366-3807",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/tEL1UL2aRPDk8Jaqta0ZcQ/o.jpg",
+        "url": "https://www.yelp.com/biz/petsmart-charlotte-6?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "36",
+        "rating": "3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6345569342375,
+          35.0626751035452
+        ]
+      },
+      "properties": {
+        "name": "Mercy Animal Hospital",
+        "location.address1": "3806 Sardis Church Rd",
+        "location.city": "Monroe",
+        "location.state": "NC",
+        "location.zip_code": "28110",
+        "id": "mercy-animal-hospital-monroe",
+        "display_phone": "(704) 821-8100",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/EO0ec6GOwWZBryzFNkxBXA/o.jpg",
+        "url": "https://www.yelp.com/biz/mercy-animal-hospital-monroe?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "11",
+        "rating": "3.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6317596435547,
+          35.0396728515625
+        ]
+      },
+      "properties": {
+        "name": "Sun Valley Animal Hospital",
+        "location.address1": "4706 Old Charlotte Hwy",
+        "location.city": "Monroe",
+        "location.state": "NC",
+        "location.zip_code": "28110",
+        "id": "sun-valley-animal-hospital-monroe",
+        "display_phone": "(704) 283-8356",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Ju7UoucVcWuy3QqT0ROL8w/o.jpg",
+        "url": "https://www.yelp.com/biz/sun-valley-animal-hospital-monroe?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "6",
+        "rating": "4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.860149,
+          35.443109
+        ]
+      },
+      "properties": {
+        "name": "Carolinas Veterinary Care Clinic",
+        "location.address1": "10110 Northcross Center Ct",
+        "location.city": "Huntersville",
+        "location.state": "NC",
+        "location.zip_code": "28078",
+        "id": "carolinas-veterinary-care-clinic-huntersville-2",
+        "display_phone": "(704) 439-0600",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/qpx1Ph48wHkbdbxZtbEsVA/o.jpg",
+        "url": "https://www.yelp.com/biz/carolinas-veterinary-care-clinic-huntersville-2?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "12",
+        "rating": "3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8564758300781,
+          35.4173469543457
+        ]
+      },
+      "properties": {
+        "name": "Huntersville Animal Care Hospital PA",
+        "location.address1": "14899 Statesville Rd",
+        "location.city": "Huntersville",
+        "location.state": "NC",
+        "location.zip_code": "28078",
+        "id": "huntersville-animal-care-hospital-pa-huntersville",
+        "display_phone": "(704) 875-0974",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/SLNu2KlkSz9Wdlj3uR7kUQ/o.jpg",
+        "url": "https://www.yelp.com/biz/huntersville-animal-care-hospital-pa-huntersville?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "3",
+        "rating": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8587911,
+          35.4848543
+        ]
+      },
+      "properties": {
+        "name": "Main Street Veterinary Hospital",
+        "location.address1": "20306 N Main St",
+        "location.city": "Cornelius",
+        "location.state": "NC",
+        "location.zip_code": "28031",
+        "id": "main-street-veterinary-hospital-cornelius",
+        "display_phone": "(704) 765-1115",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/We1o1kP-Gnq_qDBJ_5YQSw/o.jpg",
+        "url": "https://www.yelp.com/biz/main-street-veterinary-hospital-cornelius?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "25",
+        "rating": "5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8532331,
+          35.4948208
+        ]
+      },
+      "properties": {
+        "name": "The Veterinary Hospital of Davidson",
+        "location.address1": "445 S Main St",
+        "location.city": "Davidson",
+        "location.state": "NC",
+        "location.zip_code": "28036",
+        "id": "the-veterinary-hospital-of-davidson-davidson",
+        "display_phone": "(704) 765-1171",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/EoNJw9GFZLgJA2GNdTo93w/o.jpg",
+        "url": "https://www.yelp.com/biz/the-veterinary-hospital-of-davidson-davidson?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "17",
+        "rating": "5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8495559692383,
+          35.5027351379395
+        ]
+      },
+      "properties": {
+        "name": "Totalbond Veterinary Hospital at Davidson",
+        "location.address1": "260 Griffith St",
+        "location.city": "Davidson",
+        "location.state": "NC",
+        "location.zip_code": "28036",
+        "id": "totalbond-veterinary-hospital-at-davidson-davidson",
+        "display_phone": "(704) 892-1992",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/y3A3xsrm9HIL9eTDaKMd5w/o.jpg",
+        "url": "https://www.yelp.com/biz/totalbond-veterinary-hospital-at-davidson-davidson?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "1",
+        "rating": "5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8539194,
+          35.3451067
+        ]
+      },
+      "properties": {
+        "name": "PetSmart",
+        "location.address1": "10245 Perimeter Parkway",
+        "location.city": "Charlotte",
+        "location.state": "NC",
+        "location.zip_code": "28216",
+        "id": "petsmart-charlotte-5",
+        "display_phone": "(704) 599-0475",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/YN6b0382kOFICWIn9yBFMg/o.jpg",
+        "url": "https://www.yelp.com/biz/petsmart-charlotte-5?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "17",
+        "rating": "2.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.80266,
+          35.5814499
+        ]
+      },
+      "properties": {
+        "name": "Village Animal Hospital",
+        "location.address1": "628 Carpenter Ave",
+        "location.city": "Mooresville",
+        "location.state": "NC",
+        "location.zip_code": "28115",
+        "id": "village-animal-hospital-mooresville",
+        "display_phone": "(704) 660-9663",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ILWQ9OHZJFonlMtYryIZ0g/o.jpg",
+        "url": "https://www.yelp.com/biz/village-animal-hospital-mooresville?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "13",
+        "rating": "4.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8372437236991,
+          35.5876441341162
+        ]
+      },
+      "properties": {
+        "name": "Mooresville Animal Hospital",
+        "location.address1": "2673 Charlotte Hwy",
+        "location.city": "Mooresville",
+        "location.state": "NC",
+        "location.zip_code": "28117",
+        "id": "mooresville-animal-hospital-mooresville",
+        "display_phone": "(704) 664-4087",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/REXdY9r0Bm4VnkP6JuIG3w/o.jpg",
+        "url": "https://www.yelp.com/biz/mooresville-animal-hospital-mooresville?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "9",
+        "rating": "4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.88015,
+          35.58216
+        ]
+      },
+      "properties": {
+        "name": "Harbor Point Animal Hospital",
+        "location.address1": "694 Brawley School Rd",
+        "location.city": "Mooresville",
+        "location.state": "NC",
+        "location.zip_code": "28117",
+        "id": "harbor-point-animal-hospital-mooresville-2",
+        "display_phone": "(704) 230-0858",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/4np0SqcfzdL159juSZTTCg/o.jpg",
+        "url": "https://www.yelp.com/biz/harbor-point-animal-hospital-mooresville-2?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "5",
+        "rating": "5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.00165,
+          35.5102199
+        ]
+      },
+      "properties": {
+        "name": "West Shore Animal Hospital",
+        "location.address1": "2558 N Hwy 16",
+        "location.city": "Denver",
+        "location.state": "NC",
+        "location.zip_code": "28037",
+        "id": "west-shore-animal-hospital-denver",
+        "display_phone": "(704) 483-2600",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/iQnWh4Arlv3vymh-svBwPg/o.jpg",
+        "url": "https://www.yelp.com/biz/west-shore-animal-hospital-denver?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "3",
+        "rating": "4.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.732589,
+          35.441741
+        ]
+      },
+      "properties": {
+        "name": "Coddle Creek Animal Hospital",
+        "location.address1": "9172 Davidson Hwy",
+        "location.city": "Concord",
+        "location.state": "NC",
+        "location.zip_code": "28027",
+        "id": "coddle-creek-animal-hospital-concord",
+        "display_phone": "(704) 795-9005",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/NO2YfxuhTUBUZ06yXAnKjg/o.jpg",
+        "url": "https://www.yelp.com/biz/coddle-creek-animal-hospital-concord?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "7",
+        "rating": "3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.867515,
+          35.594345
+        ]
+      },
+      "properties": {
+        "name": "Lake Norman Animal Hospital",
+        "location.address1": "529 River Hwy",
+        "location.city": "Mooresville",
+        "location.state": "NC",
+        "location.zip_code": "28117",
+        "id": "lake-norman-animal-hospital-mooresville",
+        "display_phone": "(704) 664-7387",
+        "image_url": "",
+        "url": "https://www.yelp.com/biz/lake-norman-animal-hospital-mooresville?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "5",
+        "rating": "4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.87371,
+          35.58872
+        ]
+      },
+      "properties": {
+        "name": "Brawley Animal Hospital",
+        "location.address1": "111 Raceway Dr",
+        "location.city": "Mooresville",
+        "location.state": "NC",
+        "location.zip_code": "28117",
+        "id": "brawley-animal-hospital-mooresville",
+        "display_phone": "(704) 663-5122",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ad4ANqtnMEARnWB1LiOvVw/o.jpg",
+        "url": "https://www.yelp.com/biz/brawley-animal-hospital-mooresville?adjust_creative=VGFRDca0eUa0TQtHKuz9aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=VGFRDca0eUa0TQtHKuz9aQ",
+        "review_count": "2",
+        "rating": "5"
+      }
+    }
+  ]
