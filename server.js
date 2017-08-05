@@ -83,14 +83,13 @@ app.get('/api/users/login', function (req, res, next) {
     //   if (err) { return next(err); }
     //   // User.
     //     // findOneAndUpdate({ username: user.username })
-        //need to finish adding tracking metric info for user login info... lastLogin, attempts, etc. 
-        
+    //need to finish adding tracking metric info for user login info... lastLogin, attempts, etc. 
 
-      
-      // return res.redirect('/users/' + user.username);
-    });
+
+
+    // return res.redirect('/users/' + user.username);
   });
-// });
+});
 
 app.post('/api/users/login', function (req, res, next) {
   passport.authenticate('local', function (err, user, info) {
@@ -99,10 +98,12 @@ app.post('/api/users/login', function (req, res, next) {
     req.logIn(user, function (err) {
       if (err) { return next(err); }
       console.log('User ' + req.body.username + ' authenticated succesfully');
-      //return res.redirect('/users/' + user.username);
+      return res.redirect('/'), res.send({user: user.username});
     });
   })(req, res, next);
 });
+
+
 
 
 
@@ -184,4 +185,3 @@ app.listen(PORT, function () {
 //       res.send("Deleted");
 //     }
 //   });
-// });
