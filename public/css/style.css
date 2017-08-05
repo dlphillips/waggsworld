@@ -199,16 +199,19 @@ body {
 }
 
 .navbar-default .navbar-nav > li > a {
-    color: #888;
-    font-size: 15px;
+    color: #68dcc8;
+    font-size: 18px;
     text-transform: capitalize;
     transition: all .4s ease;
 }
 
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-    color: #FF6A3E;
+    color: #FF8a62;
     border-bottom:3px solid #000;
+}
+.navbar-default .titleFont{
+    color:#68dcc8;
 }
 
 
@@ -570,10 +573,15 @@ body {
 /*Waggsworld custom CSS*/
 
 #waggs-world-icon {
-    border: 1px solid black;
-    height: 50px;
-    width: 50px;
+    border: 1px solid #68dcc8 ;
+    margin: 0px 10px 0px 0px;
+    height: 100px;
+    width: 100px;
     float: left;
     background-image: url(../img/waggsworld.png);
+    background-size: cover;
+}
+.no-padding {
+    padding:0;
 }
 
