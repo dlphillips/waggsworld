@@ -64,6 +64,12 @@ var Registration = React.createClass({
             Zip:
             <input type="text" name="contact.address.zip" />
           </label>
+          <select name="Account Type">
+            <option label="Select Account Type:"></option>
+            <option value="standard">Standard</option>
+            <option value="provider">Provider</option>
+            <option value="business">Business</option>
+          </select>
           <input type="submit" value="Register" />
         </form>
       </div>
