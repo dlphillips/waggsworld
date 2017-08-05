@@ -15,11 +15,13 @@ var Home = React.createClass({
   render: function() {
 
     return (
-      <div className="main-container">
-
-        {/* Note how we pass the setQuery function to enable Query to perform searches */}
-        <h1>Home Component</h1>
-      </div>
+      <div className="row">
+        <section id="header">
+         	<div id="header-info">
+            	<h2 className="text-uppercase">WaggsWorld</h2>
+             </div>
+            </section>
+        </div>
     );
   }
 });
