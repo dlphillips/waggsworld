@@ -37,7 +37,7 @@ var Main = React.createClass({
           <footer>
             <hr />
             <p className="pull-right">
-              Copyright 2017 Team Fuji
+            Copyright 2017 Team Fuji
             </p>
           </footer>
         </div>

@@ -1,6 +1,6 @@
 // Include React as a dependency
 var React = require("react");
-
+var Link = require("react-router").Link;
 // Include the Query and Results components
 var Query = require("./search/Query");
 var Results = require("./search/Results");
@@ -18,7 +18,7 @@ var Login = React.createClass({
       <div className="main-container">
 
         {/* Note how we pass the setQuery function to enable Query to perform searches */}
-        <h1>Existing User Login Component</h1>
+        <h1>User Login</h1>  
         <form action="/api/users/login" method="post">
           <label>
             Username:
@@ -30,6 +30,8 @@ var Login = React.createClass({
           </label>
           <input type="submit" value="Login" />
         </form>
+
+        <Link to="/registration">Sign up Here!</Link>
       </div>
     );
   } 

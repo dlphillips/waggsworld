@@ -68,41 +68,45 @@ app.post("/api/users/registration",
       } else {
         console.log('User ' + newUser.username + ' created succesfully');
       }
-    });
+
+    })
+    res.redirect('/')
   });
 
-// app.get("/users/login", function (req, res) {
-//   res.send({ user: req.body.username });
-// });
 
 app.get('/api/users/login', function (req, res, next) {
   passport.authenticate('local', function (err, user, info) {
-    // if (err) { return next(err); }
-    // if (!user) { return res.redirect('/login'); }
-    // req.logIn(user, function (err) {
-    //   if (err) { return next(err); }
-    //   // User.
-    //     // findOneAndUpdate({ username: user.username })
-        //need to finish adding tracking metric info for user login info... lastLogin, attempts, etc. 
-        
+    if (err) { return next(err); }
+    if (!user) { return res.redirect('/login'); }
+    req.logIn(user, function (err) {
+      if (err) { return next(err); }
+      User.
+        findOneAndUpdate({ username: user.username }, {
+          last: Date.now,
+        }
+        )
+      //need to finish adding tracking metric info for user login info... lastLogin, attempts, etc. 
 
-      
+
+
       // return res.redirect('/users/' + user.username);
     });
   });
-// });
+});
 
 app.post('/api/users/login', function (req, res, next) {
-  passport.authenticate('local', function (err, user, info) {
-    if (err) { return next(err); }
-    // if (!user) { return res.redirect('/login'); }
-    req.logIn(user, function (err) {
+    passport.authenticate('local', function (err, user, info) {
       if (err) { return next(err); }
-      console.log('User ' + req.body.username + ' authenticated succesfully');
-      //return res.redirect('/users/' + user.username);
-    });
-  })(req, res, next);
-});
+      // if (!user) { return res.redirect('/login'); }
+      req.logIn(user, function (err) {
+        if (err) { return next(err); }
+        console.log('User ' + req.body.username + ' authenticated succesfully');
+        return res.redirect('/'), res.send({ user: user.username });
+      });
+    })(req, res, next);
+  });
+
+
 
 
 
@@ -184,4 +188,3 @@ app.listen(PORT, function () {
 //       res.send("Deleted");
 //     }
 //   });
-// });
