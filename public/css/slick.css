@@ -115,3 +115,8 @@
 .slick-arrow.slick-hidden {
     display: none;
 }
+
+.leaflet-container {
+    height: 600px;
+    width: 100%;
+}

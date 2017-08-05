@@ -57,5 +57,9 @@ typings/
 # dotenv environment variables file
 .env
 
+<<<<<<< HEAD
 # webpack bundle
 public/bundle.js
+=======
+bundle.js
+>>>>>>> 04e0fef31694b8087edf95c56602f15bd4cb93da
