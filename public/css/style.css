@@ -570,10 +570,12 @@ body {
 /*Waggsworld custom CSS*/
 
 #waggs-world-icon {
-    border: 1px solid black;
-    height: 50px;
-    width: 50px;
+    border: 1px solid #FF6A3E;
+    margin: 0px 10px 0px 0px;
+    height: 100px;
+    width: 100px;
     float: left;
     background-image: url(../img/waggsworld.png);
+    background-size: cover;
 }
 
