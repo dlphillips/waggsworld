@@ -58,4 +58,8 @@ typings/
 .env
 
 # webpack bundle
+<<<<<<< HEAD
 app/public/bundle.js
+=======
+app/public/bundle.js
+>>>>>>> dev
