@@ -20,8 +20,8 @@ var DogDate = React.createClass({
             <section id="blog" className="section">
                 <div className="container">
                     <div className="title text-center">
-                        <h2 className="text-uppercase">Dog Date</h2>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+                        <h2 className="text-uppercase">Events</h2>
+                        <p>Check out these local events!</p>
                     </div>
                     <div id="my_news" className="mrg_top80 row-eq-height">
                         <div className="row">
