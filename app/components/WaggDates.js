@@ -1,13 +1,8 @@
 // Include React as a dependency
 var React = require("react");
 
-// Include the Query and Results components
-var Query = require("./search/Query");
-var Results = require("./search/Results");
-
-
 // Create the Search component
-var DogDate = React.createClass({
+var WaggDates = React.createClass({
 
   // Render the component. Note how we deploy both the Query and the Results Components
   render: function() {
@@ -23,4 +18,4 @@ var DogDate = React.createClass({
 });
 
 // Export the module back to the route
-module.exports = DogDate;
+module.exports = WaggDates;
