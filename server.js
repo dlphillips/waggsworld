@@ -8,6 +8,7 @@ var session = require('cookie-session');
 
 // Require Schemas
 var User = require("./server/models/user");
+var Bars = require("./server/models/bars");
 
 // Create Instance of Express
 var app = express();
@@ -53,8 +54,6 @@ passport.serializeUser(User.serializeUser());
 passport.deserializeUser(User.deserializeUser());
 
 User.createStrategy();
-
-
 
 
 app.post("/api/users/registration",
@@ -107,6 +106,19 @@ app.post('/api/users/login', function (req, res, next) {
   });
 
 
+app.get("/api/bars", function (req, res) {
+     var METERS_PER_MILE = 1609.34;
+     Bars.find({ geometry: { $nearSphere: { $geometry: { type: "Point", coordinates: [ -80.790111, 35.069135 ] }, $maxDistance: 3 * METERS_PER_MILE } } })
+
+     .exec(function (err, doc) {
+      if (err) {
+        console.log(err);
+      }
+      else {
+        res.send(doc);
+      }
+    });
+});
 
 
 
@@ -118,10 +130,10 @@ app.get("*", function (req, res) {
 
 // -------------------------------------------------
 
+
 app.listen(PORT, function () {
   console.log("App listening on PORT: " + PORT);
 });
-
 
 
 
