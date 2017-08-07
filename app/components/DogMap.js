@@ -2,6 +2,8 @@ import React from 'react';
 import { render } from 'react-dom';
 import { Map, Marker, Popup, TileLayer, GeoJson } from 'react-leaflet';
 
+
+
 var mapHelpers = require("../utils/mapHelpers.js");
 
 class DogMap extends React.Component {
@@ -23,8 +25,10 @@ class DogMap extends React.Component {
     );
   }
 
-  render() {
+  render() {  
     const position = [this.state.lat, this.state.lng];
+    const barsLayer = "../../public/geojson/bars2.geojson";
+    
     return (
       <div>
       <Map center={position} zoom={this.state.zoom}>
@@ -37,6 +41,7 @@ class DogMap extends React.Component {
             <span>A pretty CSS3 popup. <br/> Easily customizable.</span>
           </Popup>
         </Marker>
+        <GeoJson data={barsLayer} />
       </Map>
       <button type="button" className="btn btn-default" onClick={() => this.handleClick('bars')}>Bars</button>
       </div>
