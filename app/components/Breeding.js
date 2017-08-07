@@ -5,9 +5,6 @@ var React = require("react");
 var Query = require("./search/Query");
 var Results = require("./search/Results");
 
-// Include the helpers for making API calls
-var helpers = require("../utils/helpers");
-
 // Create the Search component
 var Breeding = React.createClass({
 
@@ -21,8 +18,8 @@ var Breeding = React.createClass({
 	            <section id="features" className="section">
 	                <div className="container">
 	                    <div className="title text-center">
-	                        <h2 className="text-uppercase">Breeding Component</h2>
-	                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+	                        <h2 className="text-uppercase">WaggMates</h2>
+	                        <p>Looking to pass down the genetics? Scroll down to see Waggs available in your area!</p>
 	                    </div>
 	                    <div id="my_feature" className="mrg_top80">
 	                        <div className="row">

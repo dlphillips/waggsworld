@@ -28,7 +28,7 @@ var Services = require("../components/Services");
 var DogMap = require("../components/DogMap");
 var Events = require("../components/Events");
 var Breeding = require("../components/Breeding");
-var DogDate = require("../components/DogDate");
+var WaggDates = require("../components/WaggDates");
 var Registration = require("../components/Registration");
 var Login = require("../components/Login");
 var WaggsMap = require("../components/WaggsMap");
@@ -46,7 +46,7 @@ module.exports = (
       <Route path="WaggsMap" component={WaggsMap} />
       <Route path="Events" component={Events} />
       <Route path="Breeding" component={Breeding} />
-      <Route path="DogDate" component={DogDate} />
+      <Route path="WaggDates" component={WaggDates} />
       <Route path="Registration" component={Registration} />
       <Route path="Login" component={Login} />
 
