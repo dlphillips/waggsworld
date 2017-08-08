@@ -1,17 +1,12 @@
 import React from 'react';
 import { render } from 'react-dom';
 
-import helpers from "../utils/eventHelper";
+import Event from "./Children/event";
 
 class Events extends React.Component{
 
     constructor(){
         super();
-        this.state = {dailyEvents : []}
-    }
-
-    componentDidMount(){
-        helpers.runQuery()
     }
 
     render(){
@@ -26,7 +21,10 @@ class Events extends React.Component{
                             </div>
                         <div id="my_news" className="mrg_top80 row-eq-height">
                             <div className="row">
-
+                                <Event/>
+                                <Event/>
+                                <Event/>
+                                <Event/>
                             </div>
                         </div>
                         </div>
