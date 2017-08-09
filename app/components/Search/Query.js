@@ -16,6 +16,7 @@ var Query = React.createClass({
   // Whenever we detect ANY change in the textbox, we register it.
   handleChange: function(event) {
     console.log("TEXT CHANGED");
+    console.log(event.target.value);
 
     // Here we create syntax to capture any change in text to the query terms (pre-search).
     // See this Stack Overflow answer for more details:
@@ -45,7 +46,7 @@ var Query = React.createClass({
               <div className="panel-heading">
                 <h1 className="panel-title">
                   <strong>
-                    <i className="fa fa-newspaper-o" aria-hidden="true"></i> Query
+                    <i className="fa fa-newspaper-o" aria-hidden="true"></i> Services Search
                   </strong>
                 </h1>
               </div>
@@ -53,18 +54,21 @@ var Query = React.createClass({
 
                 {/* Note how we associate the text-box inputs with the state values */}
                 <form onSubmit={this.handleSubmit}>
-                  <div className="form-group">
-                    <h4 className=""><strong>Topic</strong></h4>
-                    <input
-                      type="text"
-                      value={this.state.search}
-                      className="form-control"
-                      id="search"
-                      onChange={this.handleChange}
-                      required
-                    />
+                  <div className="dropdown">
+                    <div>
+                       <select id="search" defaultValue={this.state.search} 
+                       onChange={this.handleChange}
+                       >
+                          <option value="bars">Dog Friendly Bars</option>
+                          <option value="groomers">Groomers</option>
+                          <option value="hospitals">Pet Hospitals</option>
+                          <option value="vets">Veterinarians</option>
+                          <option value="parks">Dog Parks</option>
+                          <option value="boarders">Boarding</option>
+                        </select>
+                    </div>     
 
-                    <h4><strong>Start Year</strong></h4>
+                    <h4><strong>Enter search radius in miles</strong></h4>
                     <input
                       type="number"
                       value={this.state.start}

@@ -5,6 +5,7 @@ var React = require("react");
 var Query = require("./search/Query");
 var Results = require("./search/Results");
 
+
 // Create the Search component
 var Breeding = React.createClass({
 
@@ -24,74 +25,61 @@ var Breeding = React.createClass({
 	                    <div id="my_feature" className="mrg_top80">
 	                        <div className="row">
 
-	                            <div className="col-sm-6 col-md-4">
-	                                <div className="single_feature">
-	                                    <ul className="list-unstyled list-inline">
-	                                        <li><i className="fa fa-mobile"></i></li>
-	                                        <li>
-	                                            <h3 className="text-capitalize">UX Design</h3></li>
-	                                    </ul>
-	                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
-	                                </div>
-	                            </div>
-
-	                            <div className="col-sm-6 col-md-4">
-	                                <div className="single_feature">
-	                                    <ul className="list-unstyled list-inline">
-	                                        <li><i className="fa fa-laptop"></i></li>
-	                                        <li>
-	                                            <h3 className="text-capitalize">UI design</h3></li>
-	                                    </ul>
-	                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
-	                                </div>
-	                            </div>
-
-	                            <div className="col-sm-6 col-md-4">
-	                                <div className="single_feature">
-	                                    <ul className="list-unstyled list-inline">
-	                                        <li><i className="fa fa-code"></i></li>
-	                                        <li>
-	                                            <h3 className="text-capitalize">Clean Code</h3></li>
-	                                    </ul>
-	                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
-	                                </div>
-	                            </div>
-
-	                            <div className="col-sm-6 col-md-4">
-	                                <div className="single_feature">
-	                                    <ul className="list-unstyled list-inline">
-	                                        <li><i className="fa fa-windows"></i></li>
-	                                        <li>
-	                                            <h3 className="text-capitalize">Win App</h3></li>
-	                                    </ul>
-	                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
-	                                </div>
-	                            </div>
-
-	                            <div className="col-sm-6 col-md-4">
-	                                <div className="single_feature">
-	                                    <ul className="list-unstyled list-inline">
-	                                        <li><i className="fa fa-android"></i></li>
-	                                        <li>
-	                                            <h3 className="text-capitalize">Android App</h3></li>
-	                                    </ul>
-	                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
-	                                </div>
-	                            </div>
-
-	                            <div className="col-sm-6 col-md-4">
-	                                <div className="single_feature">
-	                                    <ul className="list-unstyled list-inline">
-	                                        <li><i className="fa fa-apple"></i></li>
-	                                        <li>
-	                                            <h3 className="text-capitalize">iOS App</h3></li>
-	                                    </ul>
-	                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
-	                                </div>
+	                           <div className="col-sm-6 col-md-6">
+                                <div className="single_news">
+                                    <div className="img_news"> <img src={"../img/jeremy-kovac-149294.jpg"} alt="Blog Image"/> </div>
+                                    <div className="news">
+                                        <div className="topic">
+                                            <div className="title_topic">
+                                                <p className="date pull-left"><i className="fa fa-calendar color"></i> 2 Oct 2017</p>
+                                            </div>
+                                            <div className="clearfix"></div>
+                                            <p className="mrg_top20 text-muted">AKC Male PUG</p>
+                                        </div>
+                                        <div className="topic_info mrg_top40 text-center">
+                                            <div className="col-xs-4 col-sm-4 col-md-4">
+                                                <p className="like"><i className="fa fa-heart"></i> 170</p>
+                                            </div>
+                                            <div className="col-xs-4 col-sm-4 col-md-4">
+                                                <p className="comment"><i className="fa fa-comment"></i> 120</p>
+                                            </div>
+                                            <div className="col-xs-4 col-sm-4 col-md-4">
+                                                <p className="viwes"><i className="fa fa-eye"></i> 300</p>
+                                            </div>
+                                        </div>
+                                        <div className="clearfix"></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="col-sm-6 col-md-6">
+                                <div className="single_news">
+                                    <div className="img_news"> <img src={"../img/andrew-branch-106879.jpg"} alt="Blog Image"/> </div>
+                                    <div className="news">
+                                        <div className="topic">
+                                            <div className="title_topic">
+                                                <p className="date pull-left"><i className="fa fa-calendar color"></i> 2 Oct 2017</p>
+                                            </div>
+                                            <div className="clearfix"></div>
+                                            <p className="mrg_top20 text-muted">AKC King Charles Cavalier</p>
+                                        </div>
+                                        <div className="topic_info mrg_top40 text-center">
+                                            <div className="col-xs-4 col-sm-4 col-md-4">
+                                                <p className="like"><i className="fa fa-heart"></i> 170</p>
+                                            </div>
+                                            <div className="col-xs-4 col-sm-4 col-md-4">
+                                                <p className="comment"><i className="fa fa-comment"></i> 120</p>
+                                            </div>
+                                            <div className="col-xs-4 col-sm-4 col-md-4">
+                                                <p className="viwes"><i className="fa fa-eye"></i> 300</p>
+                                            </div>
+                                        </div>
+                                        <div className="clearfix"></div>
+                                    </div>
+                                </div>
+                            </div>
 	                            </div>
 	                        </div>
 	                    </div>
-	                </div>
 	            </section>
         	</div>
       </div>

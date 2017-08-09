@@ -28,6 +28,9 @@ var Main = React.createClass({
                           <li><Link to="/events">Events</Link></li>
                           <li><Link to="/breeding">WaggMates</Link></li>
                           <li><Link to="/login">Login</Link></li>
+
+                          <li><Link to="/search">Search</Link></li>
+
                       </ul>
                   </div>
               </div>
