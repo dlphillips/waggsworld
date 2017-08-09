@@ -85,9 +85,6 @@ app.get('/api/users/login', function (req, res, next) {
         }
         )
       //need to finish adding tracking metric info for user login info... lastLogin, attempts, etc. 
-
-
-
       // return res.redirect('/users/' + user.username);
     });
   });
@@ -119,7 +116,6 @@ app.get("/api/bars", function (req, res) {
       }
     });
 });
-
 
 
 // Any non API GET routes will be directed to our React App and handled by React Router

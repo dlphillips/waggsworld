@@ -5,6 +5,7 @@ var React = require("react");
 var Query = require("./search/Query");
 var Results = require("./search/Results");
 
+var mapHelpers = require("../utils/mapHelpers");
 
 // Create the Search component
 var Search = React.createClass({
@@ -22,9 +23,11 @@ var Search = React.createClass({
   // i.e we will pass this method to the query component that way it can change the main component
   // to perform a new search
   setQuery: function(newQuery, newStart, newEnd) {
-    helpers.runQuery(newQuery, newStart, newEnd).then(function(data) {
-      this.setState({ results: { docs: data.docs } });
-    }.bind(this));
+    console.log(newQuery, newStart, newEnd);
+
+    // mapHelpers.getBars(newQuery, newStart, newEnd).then(function(data) {
+    //   this.setState({ results: { docs: data.docs } });
+    // }.bind(this));
   },
 
   // Render the component. Note how we deploy both the Query and the Results Components
