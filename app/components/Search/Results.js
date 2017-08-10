@@ -8,9 +8,9 @@ var Results = React.createClass({
   // Here we will save states for the contents we save
   getInitialState: function() {
     return {
-      title: "",
+      name: "",
       url: "",
-      pubdate: ""
+      display_phone: ""
     };
   },
 
@@ -26,7 +26,7 @@ var Results = React.createClass({
 
   // A helper method for mapping through our articles and outputting some HTML
   renderArticles: function() {
-    return this.props.results.docs.map(function(article, index) {
+    return this.props.results.data.map(function(mapData, index) {
 
       // Each article thus reperesents a list group item with a known index
       return (
@@ -34,22 +34,24 @@ var Results = React.createClass({
           <li className="list-group-item">
             <h3>
               <span>
-                <em>{article.headline.main}</em>
+                <em>{mapData.properties.name}</em>
               </span>
               <span className="btn-group pull-right">
-                <a href={article.web_url} rel="noopener noreferrer" target="_blank">
-                  <button className="btn btn-default ">View Article</button>
+                <a href={mapData.properties.url} rel="noopener noreferrer" target="_blank">
+                  <button className="btn btn-default ">View on Yelp!</button>
                 </a>
 
                 {/*
                   By using an arrow function callback to wrap this.handleClick,
                   we can pass in an article as an argument
                 */}
-                <button className="btn btn-primary" onClick={() => this.handleClick(article)}>Save</button>
               </span>
             </h3>
-            <p>Date Published: {article.pub_date}</p>
-
+            <p>{mapData.properties.location}</p>
+            <p>{mapData.properties.address1}</p>
+            <p>{mapData.properties.city}, {mapData.properties.state} {mapData.properties.zip_code}</p>
+            <p>{mapData.properties.display_phone}</p>
+            <p>Yelp Rating: {mapData.properties.rating} stars</p>
           </li>
 
         </div>
@@ -69,7 +71,7 @@ var Results = React.createClass({
               <div className="panel-heading">
                 <h1 className="panel-title">
                   <strong>
-                    <i className="fa fa-list-alt"></i>
+                    <i className="fa fa-paw"></i>
                     Results
                   </strong>
                 </h1>
@@ -84,15 +86,19 @@ var Results = React.createClass({
         </div>
       </div>
     );
+
+
   },
+
   render: function() {
+    console.log(this.props.results);
     // If we have no articles, render this HTML
-    if (!this.props.results.docs) {
+    if (!this.props.results.data) {
       return (
         <li className="list-group-item">
           <h3>
             <span>
-              <em>Enter search terms to begin...</em>
+              <em>Select search terms to begin...</em>
             </span>
           </h3>
         </li>

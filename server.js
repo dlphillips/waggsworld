@@ -9,6 +9,10 @@ var session = require('cookie-session');
 // Require Schemas
 var User = require("./server/models/user");
 var Bars = require("./server/models/bars");
+var Boarders = require("./server/models/boarders");
+var Vets = require("./server/models/vets");
+var Hospitals = require("./server/models/hospitals");
+var Groomers = require("./server/models/groomers");
 
 // Create Instance of Express
 var app = express();
@@ -103,18 +107,70 @@ app.post('/api/users/login', function (req, res, next) {
   });
 
 
-app.get("/api/bars", function (req, res) {
+app.get("/api/getmapdata", function (req, res) {
      var METERS_PER_MILE = 1609.34;
-     Bars.find({ geometry: { $nearSphere: { $geometry: { type: "Point", coordinates: [ -80.790111, 35.069135 ] }, $maxDistance: 3 * METERS_PER_MILE } } })
+     var mongoModel = req.query.model;
 
-     .exec(function (err, doc) {
-      if (err) {
-        console.log(err);
-      }
-      else {
-        res.send(doc);
-      }
-    });
+     console.log(mongoModel);
+
+     switch(mongoModel) {
+       case "bars":
+             Bars.find({ geometry: { $nearSphere: { $geometry: { type: "Point", coordinates: [ req.query.lon, req.query.lat ] }, $maxDistance: req.query.start * METERS_PER_MILE } } })
+             .exec(function (err, doc) {
+              if (err) {
+                console.log(err);
+              }
+              else {
+                res.send(doc);
+              }
+            });
+           break;
+       case "boarders":
+             Boarders.find({ geometry: { $nearSphere: { $geometry: { type: "Point", coordinates: [ req.query.lon, req.query.lat ] }, $maxDistance: req.query.start * METERS_PER_MILE } } })
+             .exec(function (err, doc) {
+              if (err) {
+                console.log(err);
+              }
+              else {
+                res.send(doc);
+              }
+            });
+           break;
+       case "groomers":
+             Groomers.find({ geometry: { $nearSphere: { $geometry: { type: "Point", coordinates: [ req.query.lon, req.query.lat ] }, $maxDistance: req.query.start * METERS_PER_MILE } } })
+             .exec(function (err, doc) {
+              if (err) {
+                console.log(err);
+              }
+              else {
+                res.send(doc);
+              }
+            });
+           break;
+       default:
+       case "hospitals":
+             Hospitals.find({ geometry: { $nearSphere: { $geometry: { type: "Point", coordinates: [ req.query.lon, req.query.lat ] }, $maxDistance: req.query.start * METERS_PER_MILE } } })
+             .exec(function (err, doc) {
+              if (err) {
+                console.log(err);
+              }
+              else {
+                res.send(doc);
+              }
+            });
+           break;     
+       case "vets":
+             Vets.find({ geometry: { $nearSphere: { $geometry: { type: "Point", coordinates: [ req.query.lon, req.query.lat ] }, $maxDistance: req.query.start * METERS_PER_MILE } } })
+             .exec(function (err, doc) {
+              if (err) {
+                console.log(err);
+              }
+              else {
+                res.send(doc);
+              }
+            });
+           break;
+     }    
 });
 
 

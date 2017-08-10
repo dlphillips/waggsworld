@@ -6,17 +6,24 @@ var mapHelpers = {
 
   // **** NEW ROUTES ****//
   // This will return any dog friendly bars from our database
-  getBars: function(term, start, end) {
-    var formattedTerm = term.trim();
-    var formattedStart = start.trim();
-    var formattedEnd = end.trim();
+  getMapData: function(search, start, lon, lat) {
+    // var formattedTerm = term.trim();
 
-    console.log(formattedTerm, formattedStart, formattedEnd);
+    console.log(search, start, lon, lat);
 
-    return axios.get("/api/bars")
+    return axios.get("/api/getmapdata",{
+	    params: {
+	      model: search,
+	      start: start,
+	      lon: lon,
+	      lat: lat
+	    }
+    })
       .then(function(results) {
-        return results;
+      	console.log(results);
+        return results.data;
       });
+
   }
 };
 

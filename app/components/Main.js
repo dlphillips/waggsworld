@@ -24,13 +24,10 @@ var Main = React.createClass({
                       <ul className="nav navbar-nav navbar-right">
                           <li><Link to="/waggsmap">WaggMap</Link></li>
                           <li><Link to="/waggDates">WaggDates</Link></li>
-                          <li><Link to="/services">Services</Link></li>
-                          <li><Link to="/events">Events</Link></li>
+                          <li><Link to="/search">WaggSearch</Link></li>
+                          <li><Link to="/events">WaggEvents</Link></li>
                           <li><Link to="/breeding">WaggMates</Link></li>
                           <li><Link to="/login">Login</Link></li>
-
-                          <li><Link to="/search">Search</Link></li>
-
                       </ul>
                   </div>
               </div>

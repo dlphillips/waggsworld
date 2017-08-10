@@ -2,7 +2,7 @@ var mongoose = require('mongoose');
 
 var Schema = mongoose.Schema;
 
-var barsSchema = new Schema({
+var groomersSchema = new Schema({
     type: {type: String},
     'properties' : {
         'name' : String,
@@ -27,5 +27,5 @@ var barsSchema = new Schema({
     },
 });
 
-var Bars = mongoose.model("Bars", barsSchema);
-module.exports = Bars;
+var Groomers = mongoose.model("Groomers", groomersSchema);
+module.exports = Groomers;
