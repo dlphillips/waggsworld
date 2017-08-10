@@ -1,9 +1,8 @@
 // Include React as a dependency
 var React = require("react");
 var Link = require("react-router").Link;
-// Include the Query and Results components
-var Query = require("./search/Query");
-var Results = require("./search/Results");
+
+
 
 
 // Create the Search component
