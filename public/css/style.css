@@ -23,17 +23,20 @@ h1 {
 
 h2 {
     font-size: 38px;
-    font-weight: 700
+    font-weight: 700;
+    color: #f54480;
 }
 
 h3 {
     font-size: 22px;
     font-weight: 600;
+    color: #f54480;
 }
 
 h4 {
     font-size: 18px;
     font-weight: 600;
+    color: #f54480;
 }
 
 
@@ -517,6 +520,7 @@ body {
 #blog .single_news {
     margin: 15px 0;
     background-color: #fff;
+    height: 400px;
 }
 
 #blog .single_news .img_news {
@@ -596,5 +600,11 @@ body {
 .copyright-font {
     color:#68dcc8;
 }
+.panel-primary .panel-heading {
+    background-color: #f54480;
+
+}
+
+
 
 
