@@ -1,6 +1,11 @@
 // Include React as a dependency
 var React = require("react");
 
+var btnStyle = {
+  backgroundColor: "#fff",
+  color: "#red"
+};
+
 // Query Component Declaration
 var Query = React.createClass({
 
@@ -39,6 +44,10 @@ var Query = React.createClass({
         navigator.geolocation.getCurrentPosition(function(position) {
             self.setState({ fLat: position.coords.latitude, fLon: position.coords.longitude }); },
             (error) => alert(error.message) );
+            btnStyle = {
+               backgroundColor: "green",
+               color: "#fff"
+            };
     },
 
     // Here we render the Query component
@@ -67,6 +76,7 @@ var Query = React.createClass({
                     <button onClick={this.mapMe}
                       className="form-control"
                       id="end"
+                      style={btnStyle}
                       required
                     >
                       Click to find your location

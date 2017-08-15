@@ -7,6 +7,11 @@ var Results = require("./search/Results");
 
 var mapHelpers = require("../utils/mapHelpers");
 
+const imgStyle = {
+  height: "50%",
+  width: "50%"
+};
+
 // Create the Search component
 var Search = React.createClass({
 
@@ -19,7 +24,7 @@ var Search = React.createClass({
     };
   },
 
-  // This function will be passed down into child components so they can change the "parent"
+    // This function will be passed down into child components so they can change the "parent"
   // i.e we will pass this method to the query component that way it can change the main component
   // to perform a new search
   setQuery: function( search, newStart, fLon, fLat) {
@@ -32,7 +37,7 @@ var Search = React.createClass({
   render: function() {
     return (
       <div className="main-container">
-        <div className="img_news"> <img src={"../img/dog-grooming.jpg"} alt="Blog Image"/> </div>
+        <div className="img_news"> <img style={imgStyle} src={"../img/dog-grooming.jpg"} alt="Blog Image"/> </div>
         <h3><center>Find dog bars and services close to you!</center></h3>
         {/* Note how we pass the setQuery function to enable Query to perform searches */}
         <Query updateSearch={this.setQuery} />
